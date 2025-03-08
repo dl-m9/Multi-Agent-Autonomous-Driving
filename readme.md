@@ -1,6 +1,3 @@
-
-
-
 # Awesome Multi-Agent Autonomous Driving
 
 This is a repository for collecting resources about multi-agent autonomous driving.
@@ -15,3 +12,37 @@ The process to submit a pull request is as follows:
   |[Title](Paper Link)|Conference|[Code/Project](Code/Project link)|
   ```
 3. Submit the pull request to this branch.
+
+
+
+## Table of Contents
+
+
+- [Awesome Multi-Agent Autonomous Driving](#awesome-multi-agent-autonomous-driving)
+  - [Table of Contents](#table-of-contents)
+  - [Multi-Agent Collaborative Perception](#multi-agent-collaborative-perception)
+  - [Multi-Agent Reinforcement Learning for Autonomous Driving](#multi-agent-reinforcement-learning-for-autonomous-driving)
+  - [Multi-Agent Decision Making](#multi-agent-decision-making)
+  - [Large Language Models for Multi-Agent Autonomous Driving](#large-language-models-for-multi-agent-autonomous-driving)
+  - [Dataset and Simulator](#dataset-and-simulator)
+
+
+
+## Multi-Agent Collaborative Perception
+
+
+
+## Multi-Agent Reinforcement Learning for Autonomous Driving
+
+
+## Multi-Agent Decision Making
+
+
+## Large Language Models for Multi-Agent Autonomous Driving
+
+
+
+## Dataset and Simulator
+
+
+
