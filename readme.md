@@ -15,10 +15,12 @@ The process to submit a pull request is as follows:
 ## Table of Contents
 
 
-- [Related Materials](#related-materials)
-  - [Useful Surveys](#useful-surveys)
-  - [Useful Github Repos](#useful-github-repos)
-- [Paper Collection](#paper-collection)
+- [Awesome Multi-Agent Autonomous Driving](#awesome-multi-agent-autonomous-driving)
+  - [Table of Contents](#table-of-contents)
+  - [Related Materials](#related-materials)
+    - [Surveys](#surveys)
+    - [Github Repos](#github-repos)
+  - [Paper Collection](#paper-collection)
 
 
 ## Related Materials
@@ -32,12 +34,12 @@ The process to submit a pull request is as follows:
   - **[arXiv]** Multi-Agent Autonomous Driving Systems with Large Language Models: A Survey of Recent Advances [[PDF](http://arxiv.org/abs/2502.16804), [Code](https://anonymous.4open.science/r/LLM-based_Multi-agent_ADS-3A5C/README.md)]
 
 ###  Github Repos
-  - [Awesome Autonomous Driving](https://github.com/PeterJaq/Awesome-Autonomous-Driving)
-  - [Autonomous Driving Datasets](https://github.com/MingyuLiu1/autonomous_driving_datasets)
-  - [Awesome 3D Object Detection for Autonomous Driving](https://github.com/PointsCoder/Awesome-3D-Object-Detection-for-Autonomous-Driving)
-  - [CVPR 2024 Papers on Autonomous Driving](https://github.com/autodriving-heart/CVPR-2024-Papers-Autonomous-Driving)
-  - [End-to-End Autonomous Driving](https://github.com/Pranav-chib/End-to-End-Autonomous-Driving)
-  - [End-to-End Autonomous Driving](https://github.com/OpenDriveLab/End-to-end-Autonomous-Driving) (OpenDriveLab)
+  - [Awesome Autonomous Driving](https://github.com/PeterJaq/Awesome-Autonomous-Driving) ![](https://img.shields.io/github/stars/PeterJaq/Awesome-Autonomous-Driving.svg?style=social&label=Star&maxAge=2592000)
+  - [Autonomous Driving Datasets](https://github.com/MingyuLiu1/autonomous_driving_datasets) ![](https://img.shields.io/github/stars/MingyuLiu1/autonomous_driving_datasets.svg?style=social&label=Star&maxAge=2592000)
+  - [Awesome 3D Object Detection for Autonomous Driving](https://github.com/PointsCoder/Awesome-3D-Object-Detection-for-Autonomous-Driving) ![](https://img.shields.io/github/stars/PointsCoder/Awesome-3D-Object-Detection-for-Autonomous-Driving.svg?style=social&label=Star&maxAge=2592000)
+  - [CVPR 2024 Papers on Autonomous Driving](https://github.com/autodriving-heart/CVPR-2024-Papers-Autonomous-Driving) ![](https://img.shields.io/github/stars/autodriving-heart/CVPR-2024-Papers-Autonomous-Driving.svg?style=social&label=Star&maxAge=2592000)
+  - [End-to-End Autonomous Driving](https://github.com/Pranav-chib/End-to-End-Autonomous-Driving) ![](https://img.shields.io/github/stars/Pranav-chib/End-to-End-Autonomous-Driving.svg?style=social&label=Star&maxAge=2592000)
+  - [End-to-End Autonomous Driving](https://github.com/OpenDriveLab/End-to-end-Autonomous-Driving) (OpenDriveLab) ![](https://img.shields.io/github/stars/OpenDriveLab/End-to-end-Autonomous-Driving.svg?style=social&label=Star&maxAge=2592000)
 
 
 ## Paper Collection
