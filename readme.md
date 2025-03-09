@@ -15,10 +15,17 @@ The process to submit a pull request is as follows:
 ## Table of Contents
 
 
-  - [Related Materials](#related-materials)
-    - [Surveys](#surveys)
-    - [Github Repos](#github-repos)
-  - [Paper Collection](#paper-collection)
+- [Related Materials](#related-materials)
+   - [Surveys](#surveys)
+   - [Github Repos](#github-repos)
+- [Paper Collection](#paper-collection)
+  - [Perception](#perception)
+  - [Decision-Making](#decision-making)
+  - [Planning](#planning)
+  - [Communication](#communication)
+  - [End-to-End](#end-to-end)
+  - [Dataset and Simulator](#dataset-and-simulator)
+  - [Security](#security)
 
 
 ## Related Materials
