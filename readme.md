@@ -14,8 +14,7 @@ The process to submit a pull request is as follows:
 
 ## Table of Contents
 
-- [Awesome Multi-Agent Autonomous Driving](#awesome-multi-agent-autonomous-driving)
-  - [Table of Contents](#table-of-contents)
+
   - [Related Materials](#related-materials)
     - [Surveys](#surveys)
     - [Github Repos](#github-repos)
