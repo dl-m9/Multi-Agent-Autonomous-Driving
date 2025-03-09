@@ -14,14 +14,15 @@ The process to submit a pull request is as follows:
 
 ## Table of Contents
 
-- [Awesome Multi-Agent Autonomous Driving](#awesome-multi-agent-autonomous-driving)
-  - [Table of Contents](#table-of-contents)
-  - [Related Materials](#related-materials)
-  - [Paper Collection](#paper-collection)
+
+- [Related Materials](#related-materials)
+  - [Useful Surveys](#useful-surveys)
+  - [Useful Github Repos](#useful-github-repos)
+- [Paper Collection](#paper-collection)
 
 
 ## Related Materials
-- Useful Surveys
+###  Surveys
   - **[TPAMI]** 3D Object Detection From Images for Autonomous Driving: A Survey [[PDF](https://ieeexplore.ieee.org/document/10373157/?arnumber=10373157)]
   - **[TITS]** A Survey on Recent Advancements in Autonomous Driving Using Deep Reinforcement Learning: Applications, Challenges, and Solutions [[PDF](https://ieeexplore.ieee.org/document/10682977/?arnumber=10682977)]
   - **[ESWA]** Autonomous driving system: A comprehensive survey [[PDF](https://linkinghub.elsevier.com/retrieve/pii/S0957417423033389)]
@@ -30,7 +31,7 @@ The process to submit a pull request is as follows:
   - **[arXiv]** LLM4Drive: A Survey of Large Language Models for Autonomous Driving [[PDF](http://arxiv.org/abs/2311.01043), [Code](https://github.com/Thinklab-SJTU/Awesome-LLM4AD) ![](https://img.shields.io/github/stars/Thinklab-SJTU/Awesome-LLM4AD.svg?style=social&label=Star&maxAge=2592000)]
   - **[arXiv]** Multi-Agent Autonomous Driving Systems with Large Language Models: A Survey of Recent Advances [[PDF](http://arxiv.org/abs/2502.16804), [Code](https://anonymous.4open.science/r/LLM-based_Multi-agent_ADS-3A5C/README.md)]
 
-- Useful Github Repos
+###  Github Repos
   - [Awesome Autonomous Driving](https://github.com/PeterJaq/Awesome-Autonomous-Driving)
   - [Autonomous Driving Datasets](https://github.com/MingyuLiu1/autonomous_driving_datasets)
   - [Awesome 3D Object Detection for Autonomous Driving](https://github.com/PointsCoder/Awesome-3D-Object-Detection-for-Autonomous-Driving)
