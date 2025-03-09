@@ -1,4 +1,4 @@
-# Awesome Multi-Agent Autonomous Driving {ignore=True}
+# Awesome Multi-Agent Autonomous Driving
 
 This is a repository for collecting resources about multi-agent autonomous driving (MAAD). Different from single-agent autonomous driving which mainly focus on enhancing the driving capabilities of a single vehicle, MAAD is a research field that focuses on the collaboration and interaction between multiple agents including vehicles and infrastructure.
 
@@ -12,11 +12,18 @@ The process to submit a pull request is as follows:
   ```
 3. Submit the pull request to this branch. -->
 
+## Table of Contents
 
 
-## Table of Contents {ignore=True}
+- [Perception](#perception)
+- [Decision Making](#decision-making)
+- [Planning](#planning)
+- [Communication](#communication)
+- [End-to-End](#end-to-end)
+- [Dataset and Simulator](#dataset-and-simulator)
 
-[TOC]
+
+
 
 ## Perception
 
