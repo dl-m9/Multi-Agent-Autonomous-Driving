@@ -1,4 +1,4 @@
-# Awesome Multi-Agent Autonomous Driving
+# Awesome Multi-Agent Autonomous Driving (MAAD) {ignore=True}
 
 This is a repository for collecting resources about multi-agent autonomous driving.
 
@@ -15,32 +15,27 @@ The process to submit a pull request is as follows:
 
 
 
-## Table of Contents
+## Table of Contents {ignore=True}
 
-
-- [Awesome Multi-Agent Autonomous Driving](#awesome-multi-agent-autonomous-driving)
-  - [Table of Contents](#table-of-contents)
-  - [Multi-Agent Collaborative Perception](#multi-agent-collaborative-perception)
-  - [Multi-Agent Reinforcement Learning for Autonomous Driving](#multi-agent-reinforcement-learning-for-autonomous-driving)
-  - [Multi-Agent Decision Making](#multi-agent-decision-making)
-  - [Large Language Models for Multi-Agent Autonomous Driving](#large-language-models-for-multi-agent-autonomous-driving)
-  - [Dataset and Simulator](#dataset-and-simulator)
+[TOC]
 
 
 
-## Multi-Agent Collaborative Perception
+## Perception
 
 
 
-## Multi-Agent Reinforcement Learning for Autonomous Driving
+## Decision Making
 
 
-## Multi-Agent Decision Making
+## Planning
 
 
-## Large Language Models for Multi-Agent Autonomous Driving
+## Communication
 
 
+
+## End-to-End
 
 ## Dataset and Simulator
 
