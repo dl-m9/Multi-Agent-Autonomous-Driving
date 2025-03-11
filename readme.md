@@ -51,6 +51,7 @@ The process to submit a pull request is as follows:
 4. [CVPR 2024 Papers on Autonomous Driving](https://github.com/autodriving-heart/CVPR-2024-Papers-Autonomous-Driving) ![](https://img.shields.io/github/stars/autodriving-heart/CVPR-2024-Papers-Autonomous-Driving.svg?style=social&label=Star&maxAge=2592000)
 5. [End-to-End Autonomous Driving](https://github.com/Pranav-chib/End-to-End-Autonomous-Driving) ![](https://img.shields.io/github/stars/Pranav-chib/End-to-End-Autonomous-Driving.svg?style=social&label=Star&maxAge=2592000)
 6. [End-to-End Autonomous Driving](https://github.com/OpenDriveLab/End-to-end-Autonomous-Driving) (OpenDriveLab) ![](https://img.shields.io/github/stars/OpenDriveLab/End-to-end-Autonomous-Driving.svg?style=social&label=Star&maxAge=2592000)
+7. [Collaborative Perception](https://github.com/Little-Podi/Collaborative_Perception) ![](https://img.shields.io/github/stars/Little-Podi/Collaborative_Perception.svg?style=social&label=Star&maxAge=2592000)
 
 
 ## Paper Collection
