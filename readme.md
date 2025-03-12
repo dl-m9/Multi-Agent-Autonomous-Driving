@@ -40,6 +40,8 @@ The process to submit a pull request is as follows:
 8. `[WACV Workshop]` A Survey on Multimodal Large Language Models for Autonomous Driving [[PDF](https://openaccess.thecvf.com/content/WACV2024W/LLVM-AD/papers/Cui_A_Survey_on_Multimodal_Large_Language_Models_for_Autonomous_Driving_WACVW_2024_paper.pdf)]
 9. `[arXiv]` A Survey of Reasoning with Foundation Models [[PDF](https://arxiv.org/abs/2312.11562), [Code](https://github.com/reasoning-survey/Awesome-Reasoning-Foundation-Models)] ![](https://img.shields.io/github/stars/reasoning-survey/Awesome-Reasoning-Foundation-Models.svg?style=social&label=Star&maxAge=2592000)
 10. `[arXiv]` Collaborative Perception for Connected and Autonomous Driving: Challenges, Possible Solutions and Opportunities [[PDF](https://arxiv.org/abs/2401.01544)]
+11. `[Annual Review of Control, Robotics, and Autonomous Systems]` Planning and decision-making for autonomous vehicles [[PDF](https://www.annualreviews.org/content/journals/10.1146/annurev-control-060117-105157)]
+12. `[Chinese Journal of Mechanical Engineering]` Planning and Decision-making for Connected Autonomous Vehicles at Road Intersections: A Review [[PDF](https://cjme.springeropen.com/articles/10.1186/s10033-021-00639-3)]
 
 
 
