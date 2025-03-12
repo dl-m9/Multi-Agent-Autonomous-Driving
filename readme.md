@@ -30,16 +30,16 @@ The process to submit a pull request is as follows:
 
 ## Related Materials
 ###  Surveys
-  1. **[TPAMI]** 3D Object Detection From Images for Autonomous Driving: A Survey [[PDF](https://ieeexplore.ieee.org/document/10373157/?arnumber=10373157)]
-  2. **[TITS]** A Survey on Recent Advancements in Autonomous Driving Using Deep Reinforcement Learning: Applications, Challenges, and Solutions [[PDF](https://ieeexplore.ieee.org/document/10682977/?arnumber=10682977)]
-  3. **[ESWA]** Autonomous driving system: A comprehensive survey [[PDF](https://linkinghub.elsevier.com/retrieve/pii/S0957417423033389)]
-  4. **[TPAMI]** Delving Into the Devils of Bird’s-Eye-View Perception: A Review, Evaluation and Recipe [[PDF](https://ieeexplore.ieee.org/document/10321736/?arnumber=10321736)]
-  5. **[TPAMI]** End-to-End Autonomous Driving: Challenges and Frontiers [[PDF](https://ieeexplore.ieee.org/document/10614862/?arnumber=10614862), [Code](https://github.com/OpenDriveLab/End-to-end-Autonomous-Driving)] ![](https://img.shields.io/github/stars/OpenDriveLab/End-to-end-Autonomous-Driving.svg?style=social&label=Star&maxAge=2592000)
-  6. **[arXiv]** LLM4Drive: A Survey of Large Language Models for Autonomous Driving [[PDF](http://arxiv.org/abs/2311.01043), [Code](https://github.com/Thinklab-SJTU/Awesome-LLM4AD)] ![](https://img.shields.io/github/stars/Thinklab-SJTU/Awesome-LLM4AD.svg?style=social&label=Star&maxAge=2592000)
-  7. **[arXiv]** Multi-Agent Autonomous Driving Systems with Large Language Models: A Survey of Recent Advances [[PDF](http://arxiv.org/abs/2502.16804), [Code](https://anonymous.4open.science/r/LLM-based_Multi-agent_ADS-3A5C/README.md)]
-  8. **[WACV Workshop]** A Survey on Multimodal Large Language Models for Autonomous Driving [[PDF](https://openaccess.thecvf.com/content/WACV2024W/LLVM-AD/papers/Cui_A_Survey_on_Multimodal_Large_Language_Models_for_Autonomous_Driving_WACVW_2024_paper.pdf)]
-  9. **[arXiv]** A Survey of Reasoning with Foundation Models [[PDF](https://arxiv.org/abs/2312.11562), [Code](https://github.com/reasoning-survey/Awesome-Reasoning-Foundation-Models)] ![](https://img.shields.io/github/stars/reasoning-survey/Awesome-Reasoning-Foundation-Models.svg?style=social&label=Star&maxAge=2592000)
-  10. **[arXiv]** Collaborative Perception for Connected and Autonomous Driving: Challenges, Possible Solutions and Opportunities [[PDF](https://arxiv.org/abs/2401.01544)]
+1. `[TPAMI]` 3D Object Detection From Images for Autonomous Driving: A Survey [[PDF](https://ieeexplore.ieee.org/document/10373157/?arnumber=10373157)]
+2. `[TITS]` A Survey on Recent Advancements in Autonomous Driving Using Deep Reinforcement Learning: Applications, Challenges, and Solutions [[PDF](https://ieeexplore.ieee.org/document/10682977/?arnumber=10682977)]
+3. `[ESWA]` Autonomous driving system: A comprehensive survey [[PDF](https://linkinghub.elsevier.com/retrieve/pii/S0957417423033389)]
+4. `[TPAMI]` Delving Into the Devils of Bird’s-Eye-View Perception: A Review, Evaluation and Recipe [[PDF](https://ieeexplore.ieee.org/document/10321736/?arnumber=10321736)]
+5. `[TPAMI]` End-to-End Autonomous Driving: Challenges and Frontiers [[PDF](https://ieeexplore.ieee.org/document/10614862/?arnumber=10614862), [Code](https://github.com/OpenDriveLab/End-to-end-Autonomous-Driving)] ![](https://img.shields.io/github/stars/OpenDriveLab/End-to-end-Autonomous-Driving.svg?style=social&label=Star&maxAge=2592000)
+6. `[arXiv]` LLM4Drive: A Survey of Large Language Models for Autonomous Driving [[PDF](http://arxiv.org/abs/2311.01043), [Code](https://github.com/Thinklab-SJTU/Awesome-LLM4AD)] ![](https://img.shields.io/github/stars/Thinklab-SJTU/Awesome-LLM4AD.svg?style=social&label=Star&maxAge=2592000)
+7. `[arXiv]` Multi-Agent Autonomous Driving Systems with Large Language Models: A Survey of Recent Advances [[PDF](http://arxiv.org/abs/2502.16804), [Code](https://anonymous.4open.science/r/LLM-based_Multi-agent_ADS-3A5C/README.md)]
+8. `[WACV Workshop]` A Survey on Multimodal Large Language Models for Autonomous Driving [[PDF](https://openaccess.thecvf.com/content/WACV2024W/LLVM-AD/papers/Cui_A_Survey_on_Multimodal_Large_Language_Models_for_Autonomous_Driving_WACVW_2024_paper.pdf)]
+9. `[arXiv]` A Survey of Reasoning with Foundation Models [[PDF](https://arxiv.org/abs/2312.11562), [Code](https://github.com/reasoning-survey/Awesome-Reasoning-Foundation-Models)] ![](https://img.shields.io/github/stars/reasoning-survey/Awesome-Reasoning-Foundation-Models.svg?style=social&label=Star&maxAge=2592000)
+10. `[arXiv]` Collaborative Perception for Connected and Autonomous Driving: Challenges, Possible Solutions and Opportunities [[PDF](https://arxiv.org/abs/2401.01544)]
 
 
 
@@ -64,6 +64,4 @@ Please refer to [this page](./papers.md) for the full list of the papers.
 - [End-to-End](papers.md#end-to-end)
 - [Dataset and Simulator](papers.md#dataset-and-simulator)
 - [Security](papers.md#security)
-
-
 
