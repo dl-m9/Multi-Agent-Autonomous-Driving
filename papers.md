@@ -34,6 +34,8 @@
 ### Planning
 1. `[TPAMI'24]` MTR++: Multi-Agent Motion Prediction with Symmetric Scene Modeling and Guided Intention Querying  [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10398503)]  [[DOI](https://doi.org/10.1109/TPAMI.2024.3352811)]
 2.  `[NeurIPS'22]` Motion Transformer with Global Intention Localization and Local Movement Refinement  [[PDF](https://proceedings.neurips.cc/paper_files/paper/2022/file/2ab47c960bfee4f86dfc362f26ad066a-Paper-Conference.pdf)]  [[Code](https://github.com/sshaoshuai/MTR)]
+3.  `[ICCV'23]` BiFF: Bi-level Future Fusion with Polyline-based Coordinate for Interactive Trajectory Prediction [[PDF](https://proceedings.neurips.cc/paper_files/paper/2022/file/2ab47c960bfee4f86dfc362f26ad066a-Paper-Conference.pdf)]
+4.  `[AAAI'23]` EDA: Evolving and Distinct Anchors for Multimodal Motion Prediction [[PDF](https://arxiv.org/pdf/2312.09501)] [[Code](https://github.com/Longzhong-Lin/EDA)]
 ### Communication
 
 ### End-to-End
