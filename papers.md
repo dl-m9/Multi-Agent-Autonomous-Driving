@@ -20,6 +20,8 @@
 
 ### Dataset and Simulator
 
+1. `[arXiv]` V2X-ReaLO: An Open Online Framework and Dataset for Cooperative Perception in Reality [[PDF](https://arxiv.org/abs/2503.10034)]
+
 ### Security
 
 1. `[ICCV'21]` Adversarial Attacks On Multi-Agent Communication [[PDF](https://ieeexplore.ieee.org/document/9711249/?arnumber=9711249)]
