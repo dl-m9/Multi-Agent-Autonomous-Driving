@@ -37,6 +37,8 @@
 6. `[arXiv]` Towards Collaborative Autonomous Driving: Simulation Platform and End-to-End System [[paper](https://arxiv.org/abs/2404.09496)] [[code](https://github.com/CollaborativePerception/V2Xverse)] ![](https://img.shields.io/github/stars/CollaborativePerception/V2Xverse.svg?style=social&label=Star&maxAge=2592000)
 
 ### Dataset and Simulator
+
+**Dataset:**
 1. `[CoRL'17]` CARLA: An Open Urban Driving Simulator [[paper](https://arxiv.org/abs/1711.03938)] [[code](https://github.com/carla-simulator/carla)] [[project](https://carla.org)] ![CARLA](https://img.shields.io/badge/-CARLA-blue)
 2. `[ICCV'21]` V2X-Sim: Multi-Agent Collaborative Perception Dataset and Benchmark for Autonomous Driving [[paper](https://arxiv.org/abs/2202.08449)] [[code](https://github.com/ai4ce/V2X-Sim)] [[project](https://ai4ce.github.io/V2X-Sim)] ![V2X-Sim](https://img.shields.io/badge/-V2X--Sim-blue)
 3. `[ACCV'22]` DOLPHINS: Dataset for Collaborative Perception Enabled Harmonious and Interconnected Self-Driving [[paper](https://arxiv.org/abs/2207.07609)] [[code](https://github.com/explosion5/Dolphins)] [[project](https://dolphins-dataset.net)] ![DOLPHINS](https://img.shields.io/badge/-DOLPHINS-blue)
@@ -80,6 +82,13 @@
 41. `[arXiv]` WHALES: A Multi-Agent Scheduling Dataset for Enhanced Cooperation in Autonomous Driving [[paper](https://arxiv.org/abs/2411.13340)] [[code](https://github.com/chensiweiTHU/WHALES)] [[project](https://pan.baidu.com/s/1dintX-d1T-m2uACqDlAM9A)] ![WHALES](https://img.shields.io/badge/-WHALES-blue)
 42. `[arXiv]` DriveGen: Towards Infinite Diverse Traffic Scenarios with Large Models [[paper](https://arxiv.org/pdf/2503.05808)] ![DriveGen-CS](https://img.shields.io/badge/-DriveGen--CS-blue)
 43. `[arXiv]` Towards Collaborative Autonomous Driving: Simulation Platform and End-to-End System [[paper](https://arxiv.org/abs/2404.09496)] [[code](https://github.com/CollaborativePerception/V2Xverse)] ![V2Xverse](https://img.shields.io/badge/-V2Xverse-blue)
+
+**Simulator:**
+1. `[CoRL'17]` CARLA: An Open Urban Driving Simulator [[paper](https://arxiv.org/abs/1711.03938)] [[code](https://github.com/carla-simulator/carla)] [[project](https://carla.org)] ![CARLA](https://img.shields.io/badge/-CARLA-blue)
+2. `[CVPR'24]` Editable Scene Simulation for Autonomous Driving via Collaborative LLM-Agents [[paper](https://arxiv.org/abs/2402.05746)] [[code](https://github.com/yifanlu0227/ChatSim)] [[project](https://yifanlu0227.github.io/ChatSim/)] ![ChatSim](https://img.shields.io/badge/-ChatSim-blue)
+3. `[arXiv]` DriveGen: Towards Infinite Diverse Traffic Scenarios with Large Models [[paper](https://arxiv.org/pdf/2503.05808)] ![DriveGen](https://img.shields.io/badge/-DriveGen-blue)
+4. `[arXiv]` Towards Collaborative Autonomous Driving: Simulation Platform and End-to-End System [[paper](https://arxiv.org/abs/2404.09496)] [[code](https://github.com/CollaborativePerception/V2Xverse)] ![V2Xverse](https://img.shields.io/badge/-V2Xverse-blue)
+
 
 ### Security
 1. `[ICCV'21]` Adversarial Attacks On Multi-Agent Communication [[PDF](https://ieeexplore.ieee.org/document/9711249/?arnumber=9711249)]
