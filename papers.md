@@ -10,7 +10,7 @@
 
 ### Perception
 1. `[TITS 24]` Toward Full-Scene Domain Generalization in Multi-Agent Collaborative Bird's Eye View Segmentation for Connected and Autonomous Driving [[PDF](https://ieeexplore.ieee.org/abstract/document/10779389)]
-2. `[ICCV 23]` Spatio-temporal domain awareness for multi-agent collaborative perception [[PDF](https://openaccess.thecvf.com/content/ICCV2023/papers/Yang_Spatio-Temporal_Domain_Awareness_for_Multi-Agent_Collaborative_Perception_ICCV_2023_paper.pdf)] [[Webpage](https://ydk122024.github.io/SCOPE/)]
+2. `[ICCV 23]` Spatio-Temporal Domain Awareness for Multi-Agent Collaborative Perception [[PDF](https://openaccess.thecvf.com/content/ICCV2023/papers/Yang_Spatio-Temporal_Domain_Awareness_for_Multi-Agent_Collaborative_Perception_ICCV_2023_paper.pdf)] [[Webpage](https://ydk122024.github.io/SCOPE/)]
 3. `[arXiv]` V2V-LLM: Vehicle-to-Vehicle Cooperative Autonomous Driving with Multi-Modal Large Language Models [[PDF](https://arxiv.org/pdf/2502.09980)]
 4. `[ICCV 23]` HM-ViT: Hetero-modal Vehicle-to-Vehicle Cooperative Perception with Vision Transformer [[PDF](https://openaccess.thecvf.com/content/ICCV2023/papers/Xiang_HM-ViT_Hetero-Modal_Vehicle-to-Vehicle_Cooperative_Perception_with_Vision_Transformer_ICCV_2023_paper.pdf)] [[Code](https://github.com/XHwind/HM-ViT)] ![](https://img.shields.io/github/stars/XHwind/HM-ViT.svg?style=social&label=Star&maxAge=2592000)
 5. `[CVPR 23]` Query-Centric Trajectory Prediction [[PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhou_Query-Centric_Trajectory_Prediction_CVPR_2023_paper.pdf)] [[Code](https://github.com/ZikangZhou/QCNet)] ![](https://img.shields.io/github/stars/ZikangZhou/QCNet.svg?style=social&label=Star&maxAge=2592000)
@@ -57,7 +57,7 @@
 6. `[CVPR'22]` COOPERNAUT: End-to-End Driving with Cooperative Perception for Networked Vehicles [[paper](https://ut-austin-rpl.github.io/Coopernaut/)] [[code](https://github.com/UT-Austin-RPL/Coopernaut)] [[project](https://ut-austin-rpl.github.io/Coopernaut/)] ![AutoCastSim](https://img.shields.io/badge/-AutoCastSim-blue)
 
 7. `[CVPR'22]` DAIR-V2X: A Large-Scale Dataset for Vehicle-Infrastructure Cooperative 3D Object Detection [[paper](https://arxiv.org/abs/2204.05575)] [[code](https://github.com/AIR-THU/DAIR-V2X?tab=readme-ov-file)] [[project](https://thudair.baai.ac.cn/index)] ![DAIR-V2X](https://img.shields.io/badge/-DAIR--V2X-blue)
-   
+
 8. `[NeurIPS'22]` Where2comm: Communication-Efficient Collaborative Perception via Spatial Confidence Maps [[paper&review](https://openreview.net/forum?id=dLL4KXzKUpS)] [[code](https://github.com/MediaBrain-SJTU/where2comm)] [[project](https://siheng-chen.github.io/dataset/coperception-uav)] ![CoPerception-UAV](https://img.shields.io/badge/-CoPerception--UAV-blue)
 
 9. `[NeurIPS'23]` Robust Asynchronous Collaborative 3D Detection via Bird's Eye View Flow [[paper&review](https://openreview.net/forum?id=UHIDdtxmVS)] ![IRV2V](https://img.shields.io/badge/-IRV2V-blue)
