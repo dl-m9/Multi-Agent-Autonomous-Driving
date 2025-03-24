@@ -33,6 +33,7 @@
 
 ### Planning
 1. `[TPAMI'24]` MTR++: Multi-Agent Motion Prediction with Symmetric Scene Modeling and Guided Intention Querying  [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10398503)]  [[DOI](https://doi.org/10.1109/TPAMI.2024.3352811)]
+2.  `[NeurIPS'22]` Motion Transformer with Global Intention Localization and Local Movement Refinement  [[PDF](https://proceedings.neurips.cc/paper_files/paper/2022/file/2ab47c960bfee4f86dfc362f26ad066a-Paper-Conference.pdf)]  [[Code](https://github.com/sshaoshuai/MTR)]
 ### Communication
 
 ### End-to-End
