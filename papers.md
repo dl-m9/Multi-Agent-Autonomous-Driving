@@ -20,6 +20,13 @@
 9. `[CoRL'22]` CoBEVT: Cooperative bird's eye view semantic segmentation with sparse transformers [[PDF](https://arxiv.org/pdf/2207.02202)] [[Code](https://github.com/DerrickXuNu/CoBEVT)] ![](https://img.shields.io/github/stars/DerrickXuNu/CoBEVT.svg?style=social&label=Star&maxAge=2592000)
 10. `[CVPR'23]` Collaboration Helps Camera Overtake LiDAR in 3D Detection [[PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Hu_Collaboration_Helps_Camera_Overtake_LiDAR_in_3D_Detection_CVPR_2023_paper.pdf)] [[Code](https://github.com/MediaBrain-SJTU/CoCa3D)] ![](https://img.shields.io/github/stars/MediaBrain-SJTU/CoCa3D.svg?style=social&label=Star&maxAge=2592000)
 11. `[TIV'23]` HYDRO-3D: Hybrid object detection and tracking for cooperative perception using 3D LiDAR [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10148929)]
+12. `[CVPR'25]` CoSDH: Communication-Efficient Collaborative Perception via Supply-Demand Awareness and Intermediate-Late Hybridization [[paper](https://arxiv.org/abs/2503.03430)] [[code](https://github.com/Xu2729/CoSDH)] ![](https://img.shields.io/github/stars/Xu2729/CoSDH.svg?style=social&label=Star&maxAge=2592000)
+13. `[CVPR'25]` One is Plenty: A Polymorphic Feature Interpreter for Immutable Heterogeneous Collaborative Perception [[paper](https://arxiv.org/abs/2411.16799)]
+14. `[CVPR'25]` SparseAlign: A Fully Sparse Framework for Cooperative Object Detection [[paper](https://arxiv.org/pdf/2503.12982)]
+15. `[CVPR'25]` V2X-R: Cooperative LiDAR-4D Radar Fusion for 3D Object Detection with Denoising Diffusion [[paper](https://arxiv.org/abs/2411.08402)] [[code](https://github.com/ylwhxht/V2X-R)] ![](https://img.shields.io/github/stars/ylwhxht/V2X-R.svg?style=social&label=Star&maxAge=2592000)
+
+
+
 
 
 ### Decision-Making
