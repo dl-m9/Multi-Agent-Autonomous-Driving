@@ -74,7 +74,16 @@
 2.  `[NeurIPS'22]` Motion Transformer with Global Intention Localization and Local Movement Refinement  [[PDF](https://proceedings.neurips.cc/paper_files/paper/2022/file/2ab47c960bfee4f86dfc362f26ad066a-Paper-Conference.pdf)]  [[Code](https://github.com/sshaoshuai/MTR)]
 3.  `[ICCV'23]` BiFF: Bi-level Future Fusion with Polyline-based Coordinate for Interactive Trajectory Prediction [[PDF](https://proceedings.neurips.cc/paper_files/paper/2022/file/2ab47c960bfee4f86dfc362f26ad066a-Paper-Conference.pdf)]
 4.  `[AAAI'23]` EDA: Evolving and Distinct Anchors for Multimodal Motion Prediction [[PDF](https://arxiv.org/pdf/2312.09501)] [[Code](https://github.com/Longzhong-Lin/EDA)]
+
+   
 ### Communication
+1. `[CVPR'24]` Communication-Efficient Collaborative Perception via Information Filling with Codebook [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Hu_Communication-Efficient_Collaborative_Perception_via_Information_Filling_with_Codebook_CVPR_2024_paper.pdf)] [[code](https://github.com/PhyllisH/CodeFilling)] ![](https://img.shields.io/github/stars/PhyllisH/CodeFilling.svg?style=social&label=Star&maxAge=2592000)
+2. `[CVPR'24]` ERMVP: Communication-Efficient and Collaboration-Robust Multi-Vehicle Perception in Challenging Environments [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Zhang_ERMVP_Communication-Efficient_and_Collaboration-Robust_Multi-Vehicle_Perception_in_Challenging_Environments_CVPR_2024_paper.html)] [[code](https://github.com/Terry9a/ERMVP)] ![](https://img.shields.io/github/stars/Terry9a/ERMVP.svg?style=social&label=Star&maxAge=2592000)
+3. `[CVPR'24]` Multi-Agent Collaborative Perception via Motion-Aware Robust Communication Network [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Hong_Multi-agent_Collaborative_Perception_via_Motion-aware_Robust_Communication_Network_CVPR_2024_paper.html)] [[code](https://github.com/IndigoChildren/collaborative-perception-MRCNet)] ![](https://img.shields.io/github/stars/IndigoChildren/collaborative-perception-MRCNet.svg?style=social&label=Star&maxAge=2592000)
+4. `[ICRA'23]` Communication-Critical Planning via Multi-Agent Trajectory Exchange [[paper](https://arxiv.org/abs/2303.06080)]
+5. `[ICRA'23]` We Need to Talk: Identifying and Overcoming Communication-Critical Scenarios for Self-Driving [[paper](https://arxiv.org/abs/2305.04352)] 
+6. `[IJCAI'22]` Robust Collaborative Perception against Communication Interruption [[paper](https://learn-to-race.org/workshop-ai4ad-ijcai2022/papers.html)] 
+
 
 ### End-to-End
 1. `[AAAI'22]` CADRE: A Cascade Deep Reinforcement Learning Framework for Vision-Based Autonomous Urban Driving [[paper](https://arxiv.org/abs/2202.08557)] [[code](https://github.com/BIT-MCS/Cadre.git)] ![](https://img.shields.io/github/stars/BIT-MCS/Cadre.svg?style=social&label=Star&maxAge=2592000)
