@@ -9,7 +9,7 @@
 - [Security](papers.md#security)
 
 ### Perception
-
+1. `[TITS 24]` Toward Full-Scene Domain Generalization in Multi-Agent Collaborative Bird's Eye View Segmentation for Connected and Autonomous Driving [[PDF](https://ieeexplore.ieee.org/abstract/document/10779389)]
 ### Decision-Making
 
 ### Planning
