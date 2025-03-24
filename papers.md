@@ -11,10 +11,10 @@
 ### Perception
 1. `[TITS 24]` Toward Full-Scene Domain Generalization in Multi-Agent Collaborative Bird's Eye View Segmentation for Connected and Autonomous Driving [[PDF](https://ieeexplore.ieee.org/abstract/document/10779389)]
 2. `[ICCV 23]` Spatio-temporal domain awareness for multi-agent collaborative perception [[PDF](https://openaccess.thecvf.com/content/ICCV2023/papers/Yang_Spatio-Temporal_Domain_Awareness_for_Multi-Agent_Collaborative_Perception_ICCV_2023_paper.pdf)] [[Webpage](https://ydk122024.github.io/SCOPE/)]
-3. `[arXiv]` V2V-LLM: Vehicle-to-Vehicle Cooperative Autonomous Driving with Multi-Modal Large Language Models [[PDF](https://arxiv.org/pdf/2502.09980])]
-4. `[ICCV 23]` HM-ViT: Hetero-modal Vehicle-to-Vehicle Cooperative Perception with Vision Transformer [[PDF](https://openaccess.thecvf.com/content/ICCV2023/papers/Xiang_HM-ViT_Hetero-Modal_Vehicle-to-Vehicle_Cooperative_Perception_with_Vision_Transformer_ICCV_2023_paper.pdf])] [[Code](https://github.com/XHwind/HM-ViT)]
-5. `[CVPR 23]` Query-Centric Trajectory Prediction [[PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhou_Query-Centric_Trajectory_Prediction_CVPR_2023_paper.pdf])] [[Code](https://github.com/ZikangZhou/QCNet)]
-6. `[ICRA 25]` CoopDETR: A Unified Cooperative Perception Framework for 3D Detection via Object Query [[PDF]([https://arxiv.org/pdf/2502.19313])]
+3. `[arXiv]` V2V-LLM: Vehicle-to-Vehicle Cooperative Autonomous Driving with Multi-Modal Large Language Models [[PDF](https://arxiv.org/pdf/2502.09980)]
+4. `[ICCV 23]` HM-ViT: Hetero-modal Vehicle-to-Vehicle Cooperative Perception with Vision Transformer [[PDF](https://openaccess.thecvf.com/content/ICCV2023/papers/Xiang_HM-ViT_Hetero-Modal_Vehicle-to-Vehicle_Cooperative_Perception_with_Vision_Transformer_ICCV_2023_paper.pdf)] [[Code](https://github.com/XHwind/HM-ViT)]
+5. `[CVPR 23]` Query-Centric Trajectory Prediction [[PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhou_Query-Centric_Trajectory_Prediction_CVPR_2023_paper.pdf)] [[Code](https://github.com/ZikangZhou/QCNet)]
+6. `[ICRA 25]` CoopDETR: A Unified Cooperative Perception Framework for 3D Detection via Object Query [[PDF](https://arxiv.org/pdf/2502.19313)]
 
 ### Decision-Making
 
