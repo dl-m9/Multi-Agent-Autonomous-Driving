@@ -19,13 +19,13 @@ The process to submit a pull request is as follows:
    - [Surveys](#surveys)
    - [Github Repos](#github-repos)
 - [Paper Collection](#paper-collection)
-  - [Perception](#perception)
-  - [Decision-Making](#decision-making)
-  - [Planning](#planning)
-  - [Communication](#communication)
-  - [End-to-End](#end-to-end)
-  - [Dataset and Simulator](#dataset-and-simulator)
-  - [Security](#security)
+  - [Perception](papers.md#perception)
+  - [Decision-Making](papers.md#decision-making)
+  - [Planning](papers.md#planning)
+  - [Communication](papers.md#communication)
+  - [End-to-End](papers.md#end-to-end)
+  - [Dataset and Simulator](papers.md#dataset-and-simulator)
+  - [Security](papers.md#security)
 
 
 ## Related Materials
