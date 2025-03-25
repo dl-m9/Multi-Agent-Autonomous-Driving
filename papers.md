@@ -149,7 +149,7 @@
 5. `[arXiv]` Towards Collaborative Autonomous Driving: Simulation Platform and End-to-End System [[PDF](https://arxiv.org/abs/2404.09496)] [[Code](https://github.com/CollaborativePerception/V2Xverse)] ![V2Xverse](https://img.shields.io/badge/-V2Xverse-blue)
 
 
-### Security
+### Security and Robustness
 1. `[ICCV'21]` Adversarial Attacks On Multi-Agent Communication [[PDF](https://ieeexplore.ieee.org/document/9711249/?arnumber=9711249)]
 2. `[ICCV'23]` Among Us: Adversarially Robust Collaborative Perception by Consensus [[PDF](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_Among_Us_Adversarially_Robust_Collaborative_Perception_by_Consensus_ICCV_2023_paper.pdf), [Code](https://github.com/coperception/ROBOSAC)] ![](https://img.shields.io/github/stars/coperception/ROBOSAC.svg?style=social&label=Star&maxAge=2592000)
 3. `[VehicleSec'23]` Cooperative Perception for Safe Control of Autonomous Vehicles under LiDAR Spoofing Attacks [[PDF](http://arxiv.org/abs/2302.07341)]
@@ -159,3 +159,10 @@
 7. `[AAAI'24]` Robust Communicative Multi-Agent Reinforcement Learning with Active Defense [[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/29708)]
 8. `[arXiv]` GCP: Guarded Collaborative Perception with Spatial-Temporal Aware Malicious Agent Detection [[PDF](https://arxiv.org/abs/2501.02450)]
 9. `[arXiv]` CP-Guard+: A New Paradigm for Malicious Agent Detection and Defense in Collaborative Perception [[PDF](https://arxiv.org/abs/2502.07807v1)]
+10. `[ICRA'24]` AdvGPS: Adversarial GPS for Multi-Agent Perception Attack [[PDF](https://ieeexplore.ieee.org/abstract/document/10610012)] [[Code](https://github.com/jinlong17/AdvGPS)] ![](https://img.shields.io/github/stars/jinlong17/AdvGPS.svg?style=social&label=Star&maxAge=2592000)
+11. `[arXiv]` A Multi-Agent Security Testbed for the Analysis of Attacks and Defenses in Collaborative Sensor Fusion [[PDF](https://arxiv.org/abs/2401.09387)]
+12. `[TDSC'23]` MARNet: Backdoor Attacks Against Cooperative Multi-Agent Reinforcement Learning [[PDF](https://ieeexplore.ieee.org/abstract/document/9894692)]
+13. `[JATS'24]` RAMPART: Reinforcing Autonomous Multi-Agent Protection through Adversarial Resistance in Transportation [[PDF](https://dl.acm.org/doi/full/10.1145/3643137)]
+14. `[ACM Computing Surveys]` Adversarial Machine Learning Attacks and Defences in Multi-Agent Reinforcement Learning [[PDF](https://dl.acm.org/doi/full/10.1145/3708320)]
+15. `[NeurIPS'23]` Efficient Adversarial Attacks on Online Multi-agent Reinforcement Learning [[PDF](https://proceedings.neurips.cc/paper_files/paper/2023/hash/4cddc8fc57039f8fe44e23aba1e4df40-Abstract-Conference.html)]
+16. `[TITS'24]` A Survey of Multi-Vehicle Consensus in Uncertain Networks for Autonomous Driving [[PDF](https://ieeexplore.ieee.org/abstract/document/10704959)]
