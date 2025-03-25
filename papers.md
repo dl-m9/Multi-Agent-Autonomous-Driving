@@ -91,7 +91,7 @@
 2. `[CVPR'22]` COOPERNAUT: End-to-End Driving with Cooperative Perception for Networked Vehicles [[PDF](https://arxiv.org/abs/2205.02222)] [[Code](https://github.com/UT-Austin-RPL/Coopernaut.git)] ![](https://img.shields.io/github/stars/UT-Austin-RPL/Coopernaut.svg?style=social&label=Star&maxAge=2592000)
 3. `[TIV'23]` End-to-end Autonomous Driving with Semantic Depth Cloud Mapping and Multi-agent [[PDF](https://doi.org/10.1109/TIV.2022.3185303)] [[Code](https://github.com/oskarnatan/end-to-end-driving)]
 4. `[IV'24]` ICOP: Image-based Cooperative Perception for End-to-End Autonomous Driving [[PDF](https://ieeexplore.ieee.org/abstract/document/10588825)]
-5. `[arXiv]` End-to-End Autonomous Driving through V2X Cooperation [[PDF](https://arxiv.org/abs/2404.00717)] [[Code](https://github.com/AIR-THU/UniV2X)] ![](https://img.shields.io/github/stars/AIR-THU/UniV2X.svg?style=social&label=Star&maxAge=2592000)
+5. `[AAAI'25]` End-to-End Autonomous Driving through V2X Cooperation [[PDF](https://arxiv.org/abs/2404.00717)] [[Code](https://github.com/AIR-THU/UniV2X)] ![](https://img.shields.io/github/stars/AIR-THU/UniV2X.svg?style=social&label=Star&maxAge=2592000)
 6. `[arXiv]` Towards Collaborative Autonomous Driving: Simulation Platform and End-to-End System [[PDF](https://arxiv.org/abs/2404.09496)] [[Code](https://github.com/CollaborativePerception/V2Xverse)] ![](https://img.shields.io/github/stars/CollaborativePerception/V2Xverse.svg?style=social&label=Star&maxAge=2592000)
 
 ### Dataset and Simulator
@@ -158,7 +158,7 @@
 6. `[AAAI'25]` CP-Guard: Malicious Agent Detection and Defense in Collaborative Bird's Eye View Perception [[PDF](https://arxiv.org/abs/2412.12000)]
 7. `[AAAI'24]` Robust Communicative Multi-Agent Reinforcement Learning with Active Defense [[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/29708)]
 8. `[arXiv]` GCP: Guarded Collaborative Perception with Spatial-Temporal Aware Malicious Agent Detection [[PDF](https://arxiv.org/abs/2501.02450)]
-9. `[arXiv]` CP-Guard+: A New Paradigm for Malicious Agent Detection and Defense in Collaborative Perception [[PDF](https://arxiv.org/abs/2502.07807v1)]
+9.  `[arXiv]` CP-Guard+: A New Paradigm for Malicious Agent Detection and Defense in Collaborative Perception [[PDF](https://arxiv.org/abs/2502.07807v1)]
 10. `[ICRA'24]` AdvGPS: Adversarial GPS for Multi-Agent Perception Attack [[PDF](https://ieeexplore.ieee.org/abstract/document/10610012)] [[Code](https://github.com/jinlong17/AdvGPS)] ![](https://img.shields.io/github/stars/jinlong17/AdvGPS.svg?style=social&label=Star&maxAge=2592000)
 11. `[arXiv]` A Multi-Agent Security Testbed for the Analysis of Attacks and Defenses in Collaborative Sensor Fusion [[PDF](https://arxiv.org/abs/2401.09387)]
 12. `[TDSC'23]` MARNet: Backdoor Attacks Against Cooperative Multi-Agent Reinforcement Learning [[PDF](https://ieeexplore.ieee.org/abstract/document/9894692)]
