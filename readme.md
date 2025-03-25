@@ -67,3 +67,8 @@ Please refer to [this page](./papers.md) for the full list of the papers.
 - [Dataset and Simulator](papers.md#dataset-and-simulator)
 - [Security](papers.md#security)
 
+
+## Star History
+
+
+[![Star History Chart](https://api.star-history.com/svg?repos=dl-m9/Multi-Agent-Autonomous-Driving&type=Date)](https://www.star-history.com/#dl-m9/Multi-Agent-Autonomous-Driving&Date)
