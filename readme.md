@@ -43,6 +43,7 @@ The process to submit a pull request is as follows:
 11. `[Annual Review of Control, Robotics, and Autonomous Systems]` Planning and decision-making for autonomous vehicles [[PDF](https://www.annualreviews.org/content/journals/10.1146/annurev-control-060117-105157)]
 12. `[Chinese Journal of Mechanical Engineering]` Planning and Decision-making for Connected Autonomous Vehicles at Road Intersections: A Review [[PDF](https://cjme.springeropen.com/articles/10.1186/s10033-021-00639-3)]
 13. `[COMST'22]` A Survey of Collaborative Machine Learning Using 5G Vehicular Communications [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9706268)]
+14. `[arXiv]` Collaborative Perception for Connected and Autonomous Driving: Challenges, Possible Solutions and Opportunities [[PDF](https://arxiv.org/abs/2401.01544)]
 
 
 
