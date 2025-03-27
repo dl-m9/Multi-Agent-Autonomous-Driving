@@ -68,6 +68,12 @@
 
 
 ### Decision-Making
+1. `[arXiv]` A Vehicle-Infrastructure Multi-layer Cooperative Decision-making Framework [[PDF](https://arxiv.org/pdf/2503.16552)]
+2. `[IoTML]` Research on Autonomous Driving Decision-making Strategies based Deep Reinforcement Learning [[PDF](https://dl.acm.org/doi/pdf/10.1145/3697467.3697643)]
+3. `[ICDE 2024]` Parameterized Decision-making with Multi-modality Perception for Autonomous Driving [[PDF](https://arxiv.org/pdf/2312.11935)]
+4. `[ISSN 2022]` Reinforcement Learning-Based Autonomous Driving at Intersections in CARLA Simulator [[PDF](https://www.mdpi.com/1424-8220/22/21/8373)]
+5. `[ITSC 2023]` Curriculum Proximal Policy Optimization with Stage-Decaying Clipping for Self-Driving at Unsignalized Intersections [[PDF](https://arxiv.org/pdf/2308.16445)]
+6. `[IV 2023]` Hybrid Decision Making for Autonomous Driving in Complex Urban Scenarios [[PDF](https://ieeexplore-ieee-org.sheffield.idm.oclc.org/stamp/stamp.jsp?tp=&arnumber=10186666)]
 
 ### Planning
 1. `[TPAMI'23]` MTR++: Multi-Agent Motion Prediction with Symmetric Scene Modeling and Guided Intention Querying  [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10398503)]  [[DOI](https://doi.org/10.1109/TPAMI.2024.3352811)]
