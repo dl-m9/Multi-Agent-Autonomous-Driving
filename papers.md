@@ -70,17 +70,28 @@
 ### Decision-Making
 1. `[arXiv]` A Vehicle-Infrastructure Multi-layer Cooperative Decision-making Framework [[PDF](https://arxiv.org/pdf/2503.16552)]
 2. `[IoTML]` Research on Autonomous Driving Decision-making Strategies based Deep Reinforcement Learning [[PDF](https://dl.acm.org/doi/pdf/10.1145/3697467.3697643)]
-3. `[ICDE 2024]` Parameterized Decision-making with Multi-modality Perception for Autonomous Driving [[PDF](https://arxiv.org/pdf/2312.11935)]
-4. `[ISSN 2022]` Reinforcement Learning-Based Autonomous Driving at Intersections in CARLA Simulator [[PDF](https://www.mdpi.com/1424-8220/22/21/8373)]
-5. `[ITSC 2023]` Curriculum Proximal Policy Optimization with Stage-Decaying Clipping for Self-Driving at Unsignalized Intersections [[PDF](https://arxiv.org/pdf/2308.16445)]
-6. `[IV 2023]` Hybrid Decision Making for Autonomous Driving in Complex Urban Scenarios [[PDF](https://ieeexplore-ieee-org.sheffield.idm.oclc.org/stamp/stamp.jsp?tp=&arnumber=10186666)]
+3. `[ICDE'24]` Parameterized Decision-making with Multi-modality Perception for Autonomous Driving [[PDF](https://arxiv.org/pdf/2312.11935)]
+4. `[ISSN'22]` Reinforcement Learning-Based Autonomous Driving at Intersections in CARLA Simulator [[PDF](https://www.mdpi.com/1424-8220/22/21/8373)]
+5. `[ITSC'23]` Curriculum Proximal Policy Optimization with Stage-Decaying Clipping for Self-Driving at Unsignalized Intersections [[PDF](https://arxiv.org/pdf/2308.16445)]
+6. `[IV'23]` Hybrid Decision Making for Autonomous Driving in Complex Urban Scenarios [[PDF](https://ieeexplore-ieee-org.sheffield.idm.oclc.org/stamp/stamp.jsp?tp=&arnumber=10186666)]
+7. `[T-IV'23]` Robust Lane Change Decision Making for Autonomous Vehicles: An Observation Adversarial Reinforcement Learning Approach [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9750867)]
+8. `[T-ITS'23]` Robust Decision Making for Autonomous Vehicles at Highway On-Ramps: A Constrained Adversarial Reinforcement Learning Approach [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9994638)]
+9. `[T-VT'23]` Exploiting Multi-Modal Fusion for Urban Autonomous Driving Using Latent Deep Reinforcement Learning [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9934803)]
+10. `[arXiv]`  Bringing Diversity to Autonomous Vehicles: An Interpretable Multi-vehicle Decision-making and Planning Framework [[PDF](https://arxiv.org/pdf/2302.06803)]
+11. `[T-IV'23]`  A Multi-Vehicle Game-Theoretic Framework for Decision Making and Planning of Autonomous Vehicles in Mixed Traffic [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10268996)]
+12. `[Autonomous Intelligent Systems'22]`  Multi-agent Reinforcement Learning for Cooperative Lane Changing of Connected and Autonomous Vehicles in Mixed Traffic [[PDF](https://link.springer.com/article/10.1007/s43684-022-00023-5)]
 
 ### Planning
 1. `[TPAMI'23]` MTR++: Multi-Agent Motion Prediction with Symmetric Scene Modeling and Guided Intention Querying  [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10398503)]  [[DOI](https://doi.org/10.1109/TPAMI.2024.3352811)]
 2.  `[NeurIPS'22]` Motion Transformer with Global Intention Localization and Local Movement Refinement  [[PDF](https://proceedings.neurips.cc/paper_files/paper/2022/file/2ab47c960bfee4f86dfc362f26ad066a-Paper-Conference.pdf)]  [[Code](https://github.com/sshaoshuai/MTR)]
 3.  `[ICCV'23]` BiFF: Bi-level Future Fusion with Polyline-based Coordinate for Interactive Trajectory Prediction [[PDF](https://proceedings.neurips.cc/paper_files/paper/2022/file/2ab47c960bfee4f86dfc362f26ad066a-Paper-Conference.pdf)]
 4.  `[AAAI'23]` EDA: Evolving and Distinct Anchors for Multimodal Motion Prediction [[PDF](https://arxiv.org/pdf/2312.09501)] [[Code](https://github.com/Longzhong-Lin/EDA)]
-5.   `[CVPR'22]` HiVT: Hierarchical Vector Transformer for Multi-Agent Motion Prediction [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9878832)]  [[Code](https://github.com/ZikangZhou/HiVT)]
+5.  `[CVPR'22]` HiVT: Hierarchical Vector Transformer for Multi-Agent Motion Prediction [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9878832)]  [[Code](https://github.com/ZikangZhou/HiVT)]
+6.  `[CVPR'23]` ProphNet: Efficient Agent-Centric Motion Forecasting with Anchor-Informed Proposals [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10204544)]
+7.  `[ICRA'23]` Wayformer: Motion Forecasting via Simple & Efficient Attention Networks [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10160609)]
+8.  `[TPAMI'22]` HDGT: Heterogeneous Driving Graph Transformer for Multi-Agent Trajectory Prediction via Scene Encoding [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10192373)]
+9.  `[ICRA'21]` MultiPath++: Efficient Information Fusion and Trajectory Aggregation for Behavior Prediction [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9812107)]
+10.  `[arXiv]` THOMAS: TRAJECTORY HEATMAP OUTPUT WITH LEARNED MULTI-AGENT SAMPLING [[PDF](https://arxiv.org/pdf/2110.06607)]
 
    
 ### Communication
