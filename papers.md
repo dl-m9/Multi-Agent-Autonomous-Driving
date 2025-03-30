@@ -100,6 +100,8 @@
 16.  `[ICRA'23]` GANet: Goal Area Network for Motion Forecasting [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10160468)][[Code](https://github.com/kingwmk/GANet)]
 17.  `[ICRA'22]` GOHOME: Graph-Oriented Heatmap Output for future Motion Estimation [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9812253)]
 18.  `[ICCV'21]` DenseTNT: End-to-end Trajectory Prediction from Dense Goal Sets [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9710037)]
+19.  `[T-ITS'23]` Decentralized iLQR for Cooperative Trajectory Planning of Connected Autonomous Vehicles via Dual Consensus ADMM [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10171831)]
+20.  `[arXiv]` Improved Consensus ADMM for Cooperative Motion Planning of Large-Scale Connected Autonomous Vehicles with Limited Communication [[PDF](https://arxiv.org/pdf/2401.09032)][[Code]https://henryhcliu.github.io/icadmm_cmp_carla/]
 
    
 ### Communication
