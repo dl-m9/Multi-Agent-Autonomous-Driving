@@ -80,6 +80,13 @@
 10. `[arXiv]`  Bringing Diversity to Autonomous Vehicles: An Interpretable Multi-vehicle Decision-making and Planning Framework [[PDF](https://arxiv.org/pdf/2302.06803)]
 11. `[T-IV'23]`  A Multi-Vehicle Game-Theoretic Framework for Decision Making and Planning of Autonomous Vehicles in Mixed Traffic [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10268996)]
 12. `[Autonomous Intelligent Systems'22]`  Multi-agent Reinforcement Learning for Cooperative Lane Changing of Connected and Autonomous Vehicles in Mixed Traffic [[PDF](https://link.springer.com/article/10.1007/s43684-022-00023-5)]
+13. `[arXiv]` Research on Autonomous Driving Decision-making Strategies based Deep Reinforcement Learning [[PDF](https://arxiv.org/pdf/2408.03084)]
+14. `[ICDE'24]`  Parameterized Decision-Making with Multi-Modality Perception for Autonomous Driving [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10597785)]
+15. `[TVT'23]`  Towards Robust Decision-Making for Autonomous Driving on Highway [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10107652)][[Code](https://github.com/Kayne0401/Robust-Decision-Making-Framework)]
+16. `[TVT'22]`  Highway Decision-Making and Motion Planning for Autonomous Driving via Soft Actor-Critic [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9718218)]
+17. `[T-ITS'22]` PNNUAD: Perception Neural Networks Uncertainty Aware Decision-Making for Autonomous Vehicle [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9858685)]
+18. `[IEEE Transactions on Transportation Electrification'23]` Interaction-Aware Decision-Making for Autonomous Vehicles [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10029923)]
+19. `[ICRA'23]` Failure Detection for Motion Prediction of Autonomous Driving: An Uncertainty Perspective [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10160596)]
 
 ### Planning
 1. `[TPAMI'23]` MTR++: Multi-Agent Motion Prediction with Symmetric Scene Modeling and Guided Intention Querying  [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10398503)]  [[DOI](https://doi.org/10.1109/TPAMI.2024.3352811)]
@@ -101,7 +108,9 @@
 17.  `[ICRA'22]` GOHOME: Graph-Oriented Heatmap Output for future Motion Estimation [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9812253)]
 18.  `[ICCV'21]` DenseTNT: End-to-end Trajectory Prediction from Dense Goal Sets [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9710037)]
 19.  `[T-ITS'23]` Decentralized iLQR for Cooperative Trajectory Planning of Connected Autonomous Vehicles via Dual Consensus ADMM [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10171831)]
-20.  `[arXiv]` Improved Consensus ADMM for Cooperative Motion Planning of Large-Scale Connected Autonomous Vehicles with Limited Communication [[PDF](https://arxiv.org/pdf/2401.09032)][[Code]https://henryhcliu.github.io/icadmm_cmp_carla/]
+20.  `[arXiv]` Improved Consensus ADMM for Cooperative Motion Planning of Large-Scale Connected Autonomous Vehicles with Limited Communication [[PDF](https://arxiv.org/pdf/2401.09032)][[Code](https://henryhcliu.github.io/icadmm_cmp_carla/)]
+21.  `[arXiv]` CoDriveVLM: VLM-Enhanced Urban Cooperative Dispatching and Motion Planning for Future Autonomous Mobility on Demand Systems [[PDF](https://arxiv.org/pdf/2501.06132)][[Code](https://github.com/henryhcliu/CoDriveVLM)]
+22.  `[ICRA'24]` Parallel Optimization with Hard Safety Constraints for Cooperative Planning of Connected Autonomous Vehicles [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10611158)]
 
    
 ### Communication
