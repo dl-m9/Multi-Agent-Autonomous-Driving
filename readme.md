@@ -28,7 +28,7 @@ The process to submit a pull request is as follows:
 
 ### Join Our Community
 
-In addition, if you want to **join our community** for discussion, sharing, connections, and potential collaborations, please scan the [WeChat QR code](./src/wechat.jpg). <img src="https://img.shields.io/badge/WeChat-MAADResearch-brightgreen?logo=wechat&logoColor=white" alt="WeChat">
+In addition, if you want to **join our community** for discussion, sharing, connections, and potential collaborations, please scan the [WeChat QR code](./src/wechat.jpg). [<img src="https://img.shields.io/badge/WeChat-MAADResearch-brightgreen?logo=wechat&logoColor=white" alt="WeChat">](./src/wechat.jpg)
 
 ## Table of Contents
 
