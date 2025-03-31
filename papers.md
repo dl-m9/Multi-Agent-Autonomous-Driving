@@ -106,6 +106,12 @@
 36. `[Arxiv'2024]` AGENTSCODRIVER: Large Language Model Empowered Collaborative Driving with Lifelong Learning [[PDF]](https://arxiv.org/pdf/2404.06345)
 37. `[Arxiv'24]` AgentsCoMerge: Large Language Model Empowered Collaborative Decision Making for Ramp Merging [[PDF]](https://arxiv.org/pdf/2408.03624)
 38. `[TIV'2024]` KoMA: Knowledge-driven Multi-agent Framework for Autonomous Driving with Large Language Models [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10745878) [[Code]](https://github.com/jkmhhh/KoMA_Code)
+39. `[World Electric Vehicle Journal'24]` A Review of Decision-Making and Planning for Autonomous Vehicles in Intersection Environments [[PDF](https://www.mdpi.com/2032-6653/15/3/99)]
+40. `[T-VT'24]` Decision-Making for Autonomous Vehicles in Random Task Scenarios at Unsignalized Intersection Using Deep Reinforcement Learning [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10417752)]
+41. `[DDCLS'24]` A Brief Survey of Deep Reinforcement Learning for Intersection Navigation of Autonomous Vehicles [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10606719)]
+42. `[Autonomous Intelligent Systems'22]` Multi-agent reinforcement learning for autonomous vehicles: a survey [[PDF](https://link.springer.com/article/10.1007/s43684-022-00045-z)]
+43. `[National Conference on Sensors'23]` A Comprehensive Survey on Multi-Agent Reinforcement Learning for Connected and Automated Vehicles [[PDF](https://www.mdpi.com/1424-8220/23/10/4710)]
+
 
 ### Planning
 1. `[TPAMI'23]` MTR++: Multi-Agent Motion Prediction with Symmetric Scene Modeling and Guided Intention Querying  [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10398503)]  [[DOI](https://doi.org/10.1109/TPAMI.2024.3352811)]
@@ -133,7 +139,7 @@
 23. `[RAL'2024]` SIMPL: A Simple and Efficient Multi-Agent Motion Prediction Baseline for Autonomous Driving [[PDF]](https://ieeexplore.ieee.org/abstract/document/10449378)
 24. `[TIV'2023]` Fault-tolerant cooperative driving at signal-free intersections [[PDF]](https://ieeexplore.ieee.org/document/9735412)
 25. `[TIV'2023]` OpenCDA-ROS: Enabling Seamless Integration of Simulation and Real-World Cooperative Driving Automation [[PDF]](https://ieeexplore.ieee.org/document/10192346)
-26.  `[TIV'2023]` Optimal Trajectory Planning for Connected and Automated Vehicles in Lane-Free Traffic With Vehicle Nudging [[PDF]](https://ieeexplore.ieee.org/document/10032638)
+26. `[TIV'2023]` Optimal Trajectory Planning for Connected and Automated Vehicles in Lane-Free Traffic With Vehicle Nudging [[PDF]](https://ieeexplore.ieee.org/document/10032638)
 27. `[TITS'2022]` Cooperative Formation of Autonomous Vehicles in Mixed Traffic Flow: Beyond Platooning [[PDF]](https://ieeexplore.ieee.org/document/9709187)
 28. `[TIV'2023]` Multi-Vehicle Conflict Management With Status and Intent Sharing Under Time Delays [[PDF]](https://ieeexplore.ieee.org/document/9998111)
 29. `[ITSC 2021]` OpenCDA: An Open Cooperative Driving Automation Framework Integrated with Co-Simulation [[PDF]](https://ieeexplore.ieee.org/abstract/document/9564825) [[Code]](https://github.com/ucla-mobility/OpenCDA)
@@ -145,6 +151,7 @@
 35. `[CVPR'2023]` MotionDiffuser: Controllable Multi-Agent Motion Prediction Using Diffusion [[PDF]](https://openaccess.thecvf.com/content/CVPR2023/papers/Jiang_MotionDiffuser_Controllable_Multi-Agent_Motion_Prediction_Using_Diffusion_CVPR_2023_paper.pdf)
 36. `[TPAIMI'2024]` MTR++: Multi-Agent Motion Prediction With Symmetric Scene Modeling and Guided Intention Querying [[PDF]](https://ieeexplore.ieee.org/abstract/document/10398503)
 37. `[NeurIPS'2024]` SMART: Scalable Multi-agent Real-time Motion Generation via Next-token Prediction [[PDF]](https://proceedings.neurips.cc/paper_files/paper/2024/file/cef5c8dec67597b854f0162ad76d92d2-Paper-Conference.pdf) [[Code]](https://github.com/rainmaker22/SMART)
+38. `[IEEE Internet of Things Journal'24]` Coordination for Connected and Autonomous Vehicles at Unsignalized Intersections: An Iterative Learning-Based Collision-Free Motion Planning Method [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10224258)]
 
    
 ### Communication
