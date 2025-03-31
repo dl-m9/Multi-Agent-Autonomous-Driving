@@ -1,7 +1,7 @@
 # Awesome Multi-Agent Autonomous Driving 🚗 🚙 🚓 🚕 🏎️
 
-
 ![MAAD](./src/maad.png)
+
 <div align="center">
   <a href="./src/wechat.jpg">
     <img src="https://img.shields.io/badge/WeChat-MAADResearch-brightgreen?logo=wechat&logoColor=white" alt="WeChat">
@@ -14,6 +14,7 @@ If you want to understand the **FULL-STACK** technology of **MULTI-AGENT AUTONOM
 
 ## Come and Join Us! 🫵🫵🫵
 
+### Contribution
 *Feel free to pull requests or contact us if you find any related papers that are not included here.*
 
 The process to submit a pull request is as follows:
@@ -25,8 +26,9 @@ The process to submit a pull request is as follows:
 3. Submit the pull request to this branch.
 
 
+### Join Our Community
 
-In addition, if you want to join our community for discussion, sharing, connections, and potential collaborations, please scan the [WeChat QR code](./src/wechat.jpg).
+In addition, if you want to **join our community** for discussion, sharing, connections, and potential collaborations, please scan the [WeChat QR code](./src/wechat.jpg). <img src="https://img.shields.io/badge/WeChat-MAADResearch-brightgreen?logo=wechat&logoColor=white" alt="WeChat">
 
 ## Table of Contents
 
