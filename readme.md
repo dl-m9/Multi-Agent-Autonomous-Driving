@@ -1,7 +1,6 @@
 # Awesome Multi-Agent Autonomous Driving 🚗 🚙 🚓 🚕 🏎️
 
 ![MAAD](./src/maad.png)
-
 <div align="center">
   <a href="./src/wechat.jpg">
     <img src="https://img.shields.io/badge/WeChat-MAADResearch-brightgreen?logo=wechat&logoColor=white" alt="WeChat">
