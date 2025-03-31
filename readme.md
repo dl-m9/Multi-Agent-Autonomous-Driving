@@ -5,7 +5,7 @@
 
 This is a repository for collecting resources about **Multi-Agent Autonomous Driving (MAAD)**. Different from single-agent autonomous driving which mainly focus on enhancing the driving capabilities of a single vehicle, MAAD focuses on the collaboration and interaction between multiple agents including vehicles and infrastructure.
 
-<span style="color:blue">If you want to understand the full-stack technology of multi-agent autonomous driving, then this repo is definitely for you!</span>
+If you want to understand the **FULL-STACK** technology of **MULTI-AGENT AUTONOMOUS DRIVING**, then this repo is definitely for you!
 
 ## Come and Join Us! 🫵🫵🫵
 
