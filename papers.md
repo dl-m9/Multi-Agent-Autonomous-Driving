@@ -87,11 +87,31 @@
 17. `[T-ITS'22]` PNNUAD: Perception Neural Networks Uncertainty Aware Decision-Making for Autonomous Vehicle [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9858685)]
 18. `[IEEE Transactions on Transportation Electrification'23]` Interaction-Aware Decision-Making for Autonomous Vehicles [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10029923)]
 19. `[ICRA'23]` Failure Detection for Motion Prediction of Autonomous Driving: An Uncertainty Perspective [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10160596)]
-20. `[World Electric Vehicle Journal'24]` A Review of Decision-Making and Planning for Autonomous Vehicles in Intersection Environments [[PDF](https://www.mdpi.com/2032-6653/15/3/99)]
-21. `[T-VT'24]` Decision-Making for Autonomous Vehicles in Random Task Scenarios at Unsignalized Intersection Using Deep Reinforcement Learning [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10417752)]
-22. `[DDCLS'24]` A Brief Survey of Deep Reinforcement Learning for Intersection Navigation of Autonomous Vehicles [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10606719)]
-23. `[Autonomous Intelligent Systems'22]` Multi-agent reinforcement learning for autonomous vehicles: a survey [[PDF](https://link.springer.com/article/10.1007/s43684-022-00045-z)]
-24. `[National Conference on Sensors'23]` A Comprehensive Survey on Multi-Agent Reinforcement Learning for Connected and Automated Vehicles [[PDF](https://www.mdpi.com/1424-8220/23/10/4710)]
+20. `[ECCV' 2024]` MAPPO-PIS: A Multi-Agent Proximal Policy Optimization Method with Prior Intent Sharing for CAVs' Cooperative Decision-Making [[PDF]](https://arxiv.org/abs/2408.06656) [[Code]](https://github.com/CCCC1dhcgd/A-MAPPO-PIS)
+21. `[TITS'2024]` Cooperative decision-making for cavs at unsignalized intersections: A marl approach with attention and hierarchical game priors [[PDF]](https://ieeexplore.ieee.org/abstract/document/10774177/)
+22. `[RAL'2024]` Language-driven policy distillation for cooperative driving in multi-agent reinforcement learning [[PDF]](https://ieeexplore.ieee.org/document/10924758)
+23. `[TITS'2023]` Deep Multi-agent Reinforcement Learning for Highway On-Ramp Merging in Mixed Traffic [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10159552)[[Code]](https://github.com/DongChen06/MARL_CAVs)
+24. `[CoRL'2022]` Socially-Attentive Policy Optimization in Multi-Agent Self-Driving System [[PDF]](https://proceedings.mlr.press/v205/dai23a/dai23a.pdf)
+25. `[TITS'2022]` Social Coordination and Altruism in Autonomous Driving [[PDF]](https://ieeexplore.ieee.org/document/9905741)
+26. `[Arxiv'2023]` Spatial-Temporal-Aware Safe Multi-Agent Reinforcement Learning of Connected Autonomous Vehicles in Challenging Scenarios [[PDF]](https://arxiv.org/pdf/2210.02300)
+27. `[TITS'2024]` A Multi-Agent Reinforcement Learning Approach for Safe and Efficient Behavior Planning of Connected Autonomous Vehicles [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10367764)
+28. `[IROS'2021]` Cooperative Autonomous Vehicles that Sympathize with Human Drivers [[PDF]](https://dl.acm.org/doi/10.1109/IROS51168.2021.9636151) [[Code]](https://github.com/BehradToghi/SymCoDrive_IROS2021)
+29. `[TITS'2022]` Multi-Agent DRL-Based Lane Change With Right-of-Way Collaboration Awareness [[PDF]](https://ieeexplore.ieee.org/document/9932003)
+30. `[Arxiv'2023]` Multi-Agent Reinforcement Learning Guided by Signal Temporal Logic Specifications [[PDF]](https://arxiv.org/pdf/2306.06808)
+31. `[CoRl'2020]` SMARTS: Scalable Multi-Agent Reinforcement Learning Training School for Autonomous Driving [[PDF]](https://proceedings.mlr.press/v155/zhou21a/zhou21a.pdf)[[Code]](https://github.com/huawei-noah/SMARTS)
+32. `[TITS'2023]` Coordinating CAV Swarms at Intersections With a Deep Learning Model [[PDF]](https://ieeexplore.ieee.org/document/10078727)
+33. `[Arxiv'2022]` Graph Reinforcement Learning Application to Co-operative Decision-Making in Mixed Autonomy Traffic: Framework, Survey, and Challenges [[PDF]](https://arxiv.org/pdf/2211.03005) [[Code]](https://github.com/Jacklinkk/Graph_CAVs)
+34. `[TVT'2024]` Towards Interactive and Learnable Cooperative Driving Automation: a Large Language Model-Driven Decision-Making Framework [[PDF]](https://ieeexplore.ieee.org/abstract/document/10933798)[[Code]](https://github.com/FanGShiYuu/CoDrivingLLM)
+35. `[Arxiv'2024]` CoMAL: Collaborative Multi-Agent Large Language Models for Mixed-Autonomy Traffic [[PDF]](https://arxiv.org/pdf/2410.14368)[[Code]](https://github.com/Hyan-Yao/CoMAL)
+36. `[Arxiv'2024]` AGENTSCODRIVER: Large Language Model Empowered Collaborative Driving with Lifelong Learning [[PDF]](https://arxiv.org/pdf/2404.06345)
+37. `[Arxiv'24]` AgentsCoMerge: Large Language Model Empowered Collaborative Decision Making for Ramp Merging [[PDF]](https://arxiv.org/pdf/2408.03624)
+38. `[TIV'2024]` KoMA: Knowledge-driven Multi-agent Framework for Autonomous Driving with Large Language Models [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10745878) [[Code]](https://github.com/jkmhhh/KoMA_Code)
+39. `[World Electric Vehicle Journal'24]` A Review of Decision-Making and Planning for Autonomous Vehicles in Intersection Environments [[PDF](https://www.mdpi.com/2032-6653/15/3/99)]
+40. `[T-VT'24]` Decision-Making for Autonomous Vehicles in Random Task Scenarios at Unsignalized Intersection Using Deep Reinforcement Learning [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10417752)]
+41. `[DDCLS'24]` A Brief Survey of Deep Reinforcement Learning for Intersection Navigation of Autonomous Vehicles [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10606719)]
+42. `[Autonomous Intelligent Systems'22]` Multi-agent reinforcement learning for autonomous vehicles: a survey [[PDF](https://link.springer.com/article/10.1007/s43684-022-00045-z)]
+43. `[National Conference on Sensors'23]` A Comprehensive Survey on Multi-Agent Reinforcement Learning for Connected and Automated Vehicles [[PDF](https://www.mdpi.com/1424-8220/23/10/4710)]
+
 
 ### Planning
 1. `[TPAMI'23]` MTR++: Multi-Agent Motion Prediction with Symmetric Scene Modeling and Guided Intention Querying  [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10398503)]  [[DOI](https://doi.org/10.1109/TPAMI.2024.3352811)]
@@ -116,7 +136,22 @@
 20.  `[arXiv]` Improved Consensus ADMM for Cooperative Motion Planning of Large-Scale Connected Autonomous Vehicles with Limited Communication [[PDF](https://arxiv.org/pdf/2401.09032)][[Code](https://henryhcliu.github.io/icadmm_cmp_carla/)]
 21.  `[arXiv]` CoDriveVLM: VLM-Enhanced Urban Cooperative Dispatching and Motion Planning for Future Autonomous Mobility on Demand Systems [[PDF](https://arxiv.org/pdf/2501.06132)][[Code](https://github.com/henryhcliu/CoDriveVLM)]
 22.  `[ICRA'24]` Parallel Optimization with Hard Safety Constraints for Cooperative Planning of Connected Autonomous Vehicles [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10611158)]
-23.  `[IEEE Internet of Things Journal'24]` Coordination for Connected and Autonomous Vehicles at Unsignalized Intersections: An Iterative Learning-Based Collision-Free Motion Planning Method [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10224258)]
+23. `[RAL'2024]` SIMPL: A Simple and Efficient Multi-Agent Motion Prediction Baseline for Autonomous Driving [[PDF]](https://ieeexplore.ieee.org/abstract/document/10449378)
+24. `[TIV'2023]` Fault-tolerant cooperative driving at signal-free intersections [[PDF]](https://ieeexplore.ieee.org/document/9735412)
+25. `[TIV'2023]` OpenCDA-ROS: Enabling Seamless Integration of Simulation and Real-World Cooperative Driving Automation [[PDF]](https://ieeexplore.ieee.org/document/10192346)
+26. `[TIV'2023]` Optimal Trajectory Planning for Connected and Automated Vehicles in Lane-Free Traffic With Vehicle Nudging [[PDF]](https://ieeexplore.ieee.org/document/10032638)
+27. `[TITS'2022]` Cooperative Formation of Autonomous Vehicles in Mixed Traffic Flow: Beyond Platooning [[PDF]](https://ieeexplore.ieee.org/document/9709187)
+28. `[TIV'2023]` Multi-Vehicle Conflict Management With Status and Intent Sharing Under Time Delays [[PDF]](https://ieeexplore.ieee.org/document/9998111)
+29. `[ITSC 2021]` OpenCDA: An Open Cooperative Driving Automation Framework Integrated with Co-Simulation [[PDF]](https://ieeexplore.ieee.org/abstract/document/9564825) [[Code]](https://github.com/ucla-mobility/OpenCDA)
+30. `[TVT'2022]` Multi-Lane Unsignalized Intersection Cooperation With Flexible Lane Direction Based on Multi-Vehicle Formation Control [[PDF]](https://ieeexplore.ieee.org/document/9740423)
+31. `[TIV'2023]` Optimizing Vehicle Re-Ordering Events in Coordinated Autonomous Intersection Crossings Under CAVs' Location Uncertainty [[PDF]](https://ieeexplore.ieee.org/document/9976239)
+32. `[TIV'2023]` Optimizing Vehicle Re-Ordering Events in Coordinated Autonomous Intersection Crossings Under CAVs' Location Uncertainty [[PDF]](https://ieeexplore.ieee.org/document/9735412)
+33. `[CoRL'2023]` iPLAN: Intent-Aware Planning in Heterogeneous Traffic via Distributed Multi-Agent Reinforcement Learning[[PDF]](https://openreview.net/pdf?id=EvuAJ0wD98)[[Code]](https://github.com/wuxiyang1996/iPLAN)
+34. `[RAL'2025]` CMP: Cooperative Motion Prediction With Multi-Agent Communication [[PDF]](https://ieeexplore.ieee.org/abstract/document/10908648)
+35. `[CVPR'2023]` MotionDiffuser: Controllable Multi-Agent Motion Prediction Using Diffusion [[PDF]](https://openaccess.thecvf.com/content/CVPR2023/papers/Jiang_MotionDiffuser_Controllable_Multi-Agent_Motion_Prediction_Using_Diffusion_CVPR_2023_paper.pdf)
+36. `[TPAIMI'2024]` MTR++: Multi-Agent Motion Prediction With Symmetric Scene Modeling and Guided Intention Querying [[PDF]](https://ieeexplore.ieee.org/abstract/document/10398503)
+37. `[NeurIPS'2024]` SMART: Scalable Multi-agent Real-time Motion Generation via Next-token Prediction [[PDF]](https://proceedings.neurips.cc/paper_files/paper/2024/file/cef5c8dec67597b854f0162ad76d92d2-Paper-Conference.pdf) [[Code]](https://github.com/rainmaker22/SMART)
+38. `[IEEE Internet of Things Journal'24]` Coordination for Connected and Autonomous Vehicles at Unsignalized Intersections: An Iterative Learning-Based Collision-Free Motion Planning Method [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10224258)]
 
    
 ### Communication
