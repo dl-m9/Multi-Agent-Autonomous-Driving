@@ -2,6 +2,11 @@
 
 
 ![MAAD](./src/maad.png)
+<div align="center">
+  <a href="./src/wechat.jpg">
+    <img src="https://img.shields.io/badge/WeChat-MAADResearch-brightgreen?logo=wechat&logoColor=white" alt="WeChat">
+  </a>
+</div>
 
 This is a repository for collecting resources about **Multi-Agent Autonomous Driving (MAAD)**. Different from single-agent autonomous driving which mainly focus on enhancing the driving capabilities of a single vehicle, MAAD focuses on the collaboration and interaction between multiple agents including vehicles and infrastructure.
 
@@ -11,7 +16,6 @@ If you want to understand the **FULL-STACK** technology of **MULTI-AGENT AUTONOM
 
 *Feel free to pull requests or contact us if you find any related papers that are not included here.*
 
-
 The process to submit a pull request is as follows:
 1. Fork the project into your own repository.
 2. Add the Title, Paper link, Conference, Project/Code link in `papers.md` using the following format:
@@ -20,6 +24,9 @@ The process to submit a pull request is as follows:
 ```
 3. Submit the pull request to this branch.
 
+
+
+In addition, if you want to join our community for discussion, sharing, connections, and potential collaborations, please scan the [WeChat QR code](./src/wechat.jpg).
 
 ## Table of Contents
 
