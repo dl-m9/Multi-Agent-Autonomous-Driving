@@ -11,7 +11,7 @@ This is a repository for collecting resources about **Multi-Agent Autonomous Dri
 
 If you want to understand the **FULL-STACK** technology of **MULTI-AGENT AUTONOMOUS DRIVING**, then this repo is definitely for you!
 
-## Come and Join Us! 🫵🫵🫵
+## Come and Join Us! 👊🇨🇳🔥
 
 ### Contribution
 *Feel free to pull requests or contact us if you find any related papers that are not included here.*
