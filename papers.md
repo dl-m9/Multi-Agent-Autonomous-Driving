@@ -114,7 +114,7 @@
 
 
 ### Planning
-1. `[TPAMI'23]` MTR++: Multi-Agent Motion Prediction with Symmetric Scene Modeling and Guided Intention Querying  [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10398503)]  [[DOI](https://doi.org/10.1109/TPAMI.2024.3352811)]
+1. `[TPAMI'24]` MTR++: Multi-Agent Motion Prediction with Symmetric Scene Modeling and Guided Intention Querying  [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10398503)]
 2.  `[NeurIPS'22]` Motion Transformer with Global Intention Localization and Local Movement Refinement  [[PDF](https://proceedings.neurips.cc/paper_files/paper/2022/file/2ab47c960bfee4f86dfc362f26ad066a-Paper-Conference.pdf)]  [[Code](https://github.com/sshaoshuai/MTR)]
 3.  `[ICCV'23]` BiFF: Bi-level Future Fusion with Polyline-based Coordinate for Interactive Trajectory Prediction [[PDF](https://proceedings.neurips.cc/paper_files/paper/2022/file/2ab47c960bfee4f86dfc362f26ad066a-Paper-Conference.pdf)]
 4.  `[AAAI'24]` EDA: Evolving and Distinct Anchors for Multimodal Motion Prediction [[PDF](https://arxiv.org/pdf/2312.09501)] [[Code](https://github.com/Longzhong-Lin/EDA)]
@@ -149,9 +149,8 @@
 33. `[CoRL'23]` iPLAN: Intent-Aware Planning in Heterogeneous Traffic via Distributed Multi-Agent Reinforcement Learning[[PDF]](https://openreview.net/pdf?id=EvuAJ0wD98)[[Code]](https://github.com/wuxiyang1996/iPLAN)
 34. `[RAL'24]` CMP: Cooperative Motion Prediction With Multi-Agent Communication [[PDF]](https://ieeexplore.ieee.org/abstract/document/10908648)
 35. `[CVPR'23]` MotionDiffuser: Controllable Multi-Agent Motion Prediction Using Diffusion [[PDF]](https://openaccess.thecvf.com/content/CVPR2023/papers/Jiang_MotionDiffuser_Controllable_Multi-Agent_Motion_Prediction_Using_Diffusion_CVPR_2023_paper.pdf)
-36. `[TPAMI'24]` MTR++: Multi-Agent Motion Prediction With Symmetric Scene Modeling and Guided Intention Querying [[PDF]](https://ieeexplore.ieee.org/abstract/document/10398503)
-37. `[NeurIPS'24]` SMART: Scalable Multi-agent Real-time Motion Generation via Next-token Prediction [[PDF]](https://proceedings.neurips.cc/paper_files/paper/2024/file/cef5c8dec67597b854f0162ad76d92d2-Paper-Conference.pdf) [[Code]](https://github.com/rainmaker22/SMART)
-38. `[IEEE Internet of Things Journal'24]` Coordination for Connected and Autonomous Vehicles at Unsignalized Intersections: An Iterative Learning-Based Collision-Free Motion Planning Method [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10224258)]
+36. `[NeurIPS'24]` SMART: Scalable Multi-agent Real-time Motion Generation via Next-token Prediction [[PDF]](https://proceedings.neurips.cc/paper_files/paper/2024/file/cef5c8dec67597b854f0162ad76d92d2-Paper-Conference.pdf) [[Code]](https://github.com/rainmaker22/SMART)
+37. `[IEEE Internet of Things Journal'24]` Coordination for Connected and Autonomous Vehicles at Unsignalized Intersections: An Iterative Learning-Based Collision-Free Motion Planning Method [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10224258)]
 
    
 ### Communication
