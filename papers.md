@@ -163,7 +163,6 @@
 
 
 ### End-to-End
-<<<<<<< HEAD
 1. `[NeurIPS'21]` Learning to Simulate Self-Driven Particles System with Coordinated Policy Optimization [[paper](https://arxiv.org/pdf/2110.13827)] [[code](https://github.com/decisionforce/CoPO.git)] [[Webpage](https://decisionforce.github.io/CoPO/)]
 2. `[AAAI'22]` CADRE: A Cascade Deep Reinforcement Learning Framework for Vision-Based Autonomous Urban Driving [[paper](https://arxiv.org/abs/2202.08557)] [[code](https://github.com/BIT-MCS/Cadre.git)] ![](https://img.shields.io/github/stars/BIT-MCS/Cadre.svg?style=social&label=Star&maxAge=2592000)
 3. `[CVPR'22]` COOPERNAUT: End-to-End Driving with Cooperative Perception for Networked Vehicles [[paper](https://arxiv.org/abs/2205.02222)] [[code](https://github.com/UT-Austin-RPL/Coopernaut.git)] ![](https://img.shields.io/github/stars/UT-Austin-RPL/Coopernaut.svg?style=social&label=Star&maxAge=2592000)
@@ -173,18 +172,11 @@
 7. `[arXiv]` Towards Collaborative Autonomous Driving: Simulation Platform and End-to-End System [[paper](https://arxiv.org/abs/2404.09496)] [[code](https://github.com/CollaborativePerception/V2Xverse)] ![](https://img.shields.io/github/stars/CollaborativePerception/V2Xverse.svg?style=social&label=Star&maxAge=2592000)
 8. `[arXiv]` AgentsCoMerge: Large Language Model Empowered Collaborative Decision Making for Ramp Merging [[paper](https://arxiv.org/abs/2408.03624)]
 9. `[arXiv]` AgentsCoDriver: Large Language Model Empowered Collaborative Driving with Lifelong Learning [[paper](https://arxiv.org/abs/2404.06345)]
-=======
-1. `[AAAI'22]` CADRE: A Cascade Deep Reinforcement Learning Framework for Vision-Based Autonomous Urban Driving [[PDF](https://arxiv.org/abs/2202.08557)] [[Code](https://github.com/BIT-MCS/Cadre.git)] ![](https://img.shields.io/github/stars/BIT-MCS/Cadre.svg?style=social&label=Star&maxAge=2592000)
-2. `[CVPR'22]` COOPERNAUT: End-to-End Driving with Cooperative Perception for Networked Vehicles [[PDF](https://arxiv.org/abs/2205.02222)] [[Code](https://github.com/UT-Austin-RPL/Coopernaut.git)] ![](https://img.shields.io/github/stars/UT-Austin-RPL/Coopernaut.svg?style=social&label=Star&maxAge=2592000)
-3. `[TIV'23]` End-to-end Autonomous Driving with Semantic Depth Cloud Mapping and Multi-agent [[PDF](https://doi.org/10.1109/TIV.2022.3185303)] [[Code](https://github.com/oskarnatan/end-to-end-driving)]
-4. `[IV'24]` ICOP: Image-based Cooperative Perception for End-to-End Autonomous Driving [[PDF](https://ieeexplore.ieee.org/abstract/document/10588825)]
-5. `[AAAI'25]` End-to-End Autonomous Driving through V2X Cooperation [[PDF](https://arxiv.org/abs/2404.00717)] [[Code](https://github.com/AIR-THU/UniV2X)] ![](https://img.shields.io/github/stars/AIR-THU/UniV2X.svg?style=social&label=Star&maxAge=2592000)
-6. `[arXiv]` Towards Collaborative Autonomous Driving: Simulation Platform and End-to-End System [[PDF](https://arxiv.org/abs/2404.09496)] [[Code](https://github.com/CollaborativePerception/V2Xverse)] ![](https://img.shields.io/github/stars/CollaborativePerception/V2Xverse.svg?style=social&label=Star&maxAge=2592000)
-7. `[arXiv]` AgentsCoMerge: Large Language Model Empowered Collaborative Decision Making for Ramp Merging [[PDF](https://arxiv.org/abs/2408.03624)]
 
 
 
->>>>>>> ace7f2ced3bbbc64175e9191b629bfde0f94f7d6
+
+
 ### Dataset and Simulator
 
 #### Dataset
