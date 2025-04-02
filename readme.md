@@ -1,16 +1,33 @@
-# Awesome Multi-Agent Autonomous Driving
+# Awesome Multi-Agent Autonomous Driving 🚗 🚙 🚓 🚕 🏎️
 
-This is a repository for collecting resources about **multi-agent autonomous driving (MAAD)**. Different from single-agent autonomous driving which mainly focus on enhancing the driving capabilities of a single vehicle, MAAD focuses on the collaboration and interaction between multiple agents including vehicles and infrastructure.
+![MAAD](./src/maad.png)
+<div align="center">
+  <a href="./src/wechat.jpg">
+    <img src="https://img.shields.io/badge/WeChat-MAADResearch-brightgreen?logo=wechat&logoColor=white" alt="WeChat">
+  </a>
+</div>
 
-<!-- *Feel free to pull requests or contact us if you find any related papers that are not included here.*
+This is a repository for collecting resources about **Multi-Agent Autonomous Driving (MAAD)**. Different from single-agent autonomous driving which mainly focus on enhancing the driving capabilities of a single vehicle, MAAD focuses on the collaboration and interaction between multiple agents including vehicles and infrastructure.
+
+If you want to understand the **FULL-STACK** technology of **MULTI-AGENT AUTONOMOUS DRIVING**, then this repo is definitely for you!
+
+## Come and Join Us! 👊🇨🇳🔥
+
+### Contribution
+*Feel free to pull requests or contact us if you find any related papers that are not included here.*
 
 The process to submit a pull request is as follows:
 1. Fork the project into your own repository.
-2. Add the Title, Paper link, Conference, Project/Code link in `readme.md` using the following format:
-  ```
-  |[Title](Paper Link)|Conference|[Code/Project](Code/Project link)|
-  ```
-1. Submit the pull request to this branch. -->
+2. Add the Title, Paper link, Conference, Project/Code link in `papers.md` using the following format:
+```markdown
+  `[Journal/Conference]` Paper Title [Code/Project](Code/Project link)
+```
+3. Submit the pull request to this branch.
+
+
+### Join Our Community
+
+In addition, if you want to **join our community** for discussion, sharing, connections, and potential collaborations, please scan the [WeChat QR code](./src/wechat.jpg). [<img src="https://img.shields.io/badge/WeChat-MAADResearch-brightgreen?logo=wechat&logoColor=white" alt="WeChat">](./src/wechat.jpg)
 
 ## Table of Contents
 
@@ -42,6 +59,9 @@ The process to submit a pull request is as follows:
 10. `[arXiv]` Collaborative Perception for Connected and Autonomous Driving: Challenges, Possible Solutions and Opportunities [[PDF](https://arxiv.org/abs/2401.01544)]
 11. `[Annual Review of Control, Robotics, and Autonomous Systems]` Planning and decision-making for autonomous vehicles [[PDF](https://www.annualreviews.org/content/journals/10.1146/annurev-control-060117-105157)]
 12. `[Chinese Journal of Mechanical Engineering]` Planning and Decision-making for Connected Autonomous Vehicles at Road Intersections: A Review [[PDF](https://cjme.springeropen.com/articles/10.1186/s10033-021-00639-3)]
+13. `[COMST'22]` A Survey of Collaborative Machine Learning Using 5G Vehicular Communications [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9706268)]
+14. `[arXiv]` Collaborative Perception for Connected and Autonomous Driving: Challenges, Possible Solutions and Opportunities [[PDF](https://arxiv.org/abs/2401.01544)]
+15. `[Proceedings of the IEEE]` 6G for Vehicle-to-Everything (V2X) Communications: Enabling Technologies, Challenges, and Opportunities [[PDF](https://ieeexplore.ieee.org/document/9779322)]
 
 
 
@@ -67,3 +87,8 @@ Please refer to [this page](./papers.md) for the full list of the papers.
 - [Dataset and Simulator](papers.md#dataset-and-simulator)
 - [Security](papers.md#security)
 
+
+## Star History
+
+
+[![Star History Chart](https://api.star-history.com/svg?repos=dl-m9/Multi-Agent-Autonomous-Driving&type=Date)](https://www.star-history.com/#dl-m9/Multi-Agent-Autonomous-Driving&Date)

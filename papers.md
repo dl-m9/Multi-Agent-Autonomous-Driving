@@ -20,24 +20,156 @@
 9. `[CoRL'22]` CoBEVT: Cooperative bird's eye view semantic segmentation with sparse transformers [[PDF](https://arxiv.org/pdf/2207.02202)] [[Code](https://github.com/DerrickXuNu/CoBEVT)] ![](https://img.shields.io/github/stars/DerrickXuNu/CoBEVT.svg?style=social&label=Star&maxAge=2592000)
 10. `[CVPR'23]` Collaboration Helps Camera Overtake LiDAR in 3D Detection [[PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Hu_Collaboration_Helps_Camera_Overtake_LiDAR_in_3D_Detection_CVPR_2023_paper.pdf)] [[Code](https://github.com/MediaBrain-SJTU/CoCa3D)] ![](https://img.shields.io/github/stars/MediaBrain-SJTU/CoCa3D.svg?style=social&label=Star&maxAge=2592000)
 11. `[TIV'23]` HYDRO-3D: Hybrid object detection and tracking for cooperative perception using 3D LiDAR [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10148929)]
+12. `[CVPR'25]` CoSDH: Communication-Efficient Collaborative Perception via Supply-Demand Awareness and Intermediate-Late Hybridization [[PDF](https://arxiv.org/abs/2503.03430)] [[Code](https://github.com/Xu2729/CoSDH)] ![](https://img.shields.io/github/stars/Xu2729/CoSDH.svg?style=social&label=Star&maxAge=2592000)
+13. `[CVPR'25]` One is Plenty: A Polymorphic Feature Interpreter for Immutable Heterogeneous Collaborative Perception [[PDF](https://arxiv.org/abs/2411.16799)]
+14. `[CVPR'25]` SparseAlign: A Fully Sparse Framework for Cooperative Object Detection [[PDF](https://arxiv.org/pdf/2503.12982)]
+15. `[CVPR'25]` V2X-R: Cooperative LiDAR-4D Radar Fusion for 3D Object Detection with Denoising Diffusion [[PDF](https://arxiv.org/abs/2411.08402)] [[Code](https://github.com/ylwhxht/V2X-R)] ![](https://img.shields.io/github/stars/ylwhxht/V2X-R.svg?style=social&label=Star&maxAge=2592000)
+16. `[CVPR'24]` Collaborative Semantic Occupancy Prediction with Hybrid Feature Fusion in Connected Automated Vehicles [[PDF](https://openaccess.thecvf.com/content/CVPR2024/papers/Song_Collaborative_Semantic_Occupancy_Prediction_with_Hybrid_Feature_Fusion_in_Connected_CVPR_2024_paper.pdf)] [[Code](https://github.com/rruisong/CoHFF)] ![](https://img.shields.io/github/stars/rruisong/CoHFF.svg?style=social&label=Star&maxAge=2592000)
+17. `[ECCV'24]` Hetecooper: Feature Collaboration Graph for Heterogeneous Collaborative Perception [[PDF](https://eccv.ecva.net/virtual/2024/poster/2467)] 
+18. `[ECCV'24]` Rethinking the Role of Infrastructure in Collaborative Perception [[PDF](https://arxiv.org/abs/2410.11259)] 
+19. `[NeurIPS'24]` Learning Cooperative Trajectory Representations for Motion Forecasting [[PDF](https://arxiv.org/abs/2311.00371)] [[Code](https://github.com/AIR-THU/V2X-Graph)] ![](https://img.shields.io/github/stars/AIR-THU/V2X-Graph.svg?style=social&label=Star&maxAge=2592000)
+20. `[ICLR'24]` An Extensible Framework for Open Heterogeneous Collaborative Perception [[PDF](https://arxiv.org/pdf/2401.13964)] [[Code](https://github.com/yifanlu0227/HEAL)] ![](https://img.shields.io/github/stars/yifanlu0227/HEAL.svg?style=social&label=Star&maxAge=2592000)
+21. `[AAAI'24]` What Makes Good Collaborative Views? Contrastive Mutual Information Maximization for Multi-Agent Perception [[PDF](https://arxiv.org/abs/2403.10068)] [[Code](https://github.com/77SWF/CMiMC)] ![](https://img.shields.io/github/stars/77SWF/CMiMC.svg?style=social&label=Star&maxAge=2592000)
+22. `[AAAI'24]` DI-V2X: Learning Domain-Invariant Representation for Vehicle-Infrastructure Collaborative 3D Object Detection [[PDF](https://arxiv.org/abs/2312.15742)] [[Code](https://github.com/Serenos/DI-V2X)] ![](https://img.shields.io/github/stars/Serenos/DI-V2X.svg?style=social&label=Star&maxAge=2592000)
+23. `[AAAI'24]` DeepAccident: A Motion and Accident Prediction Benchmark for V2X Autonomous Driving [[PDF](https://arxiv.org/abs/2304.01168)] [[Code](https://github.com/tianqi-wang1996/DeepAccident)] ![](https://img.shields.io/github/stars/tianqi-wang1996/DeepAccident.svg?style=social&label=Star&maxAge=2592000)
+24. `[WACV'24]` MACP: Efficient Model Adaptation for Cooperative Perception [[PDF](https://arxiv.org/abs/2310.16870)] [[Code](https://github.com/PurdueDigitalTwin/MACP)] ![](https://img.shields.io/github/stars/PurdueDigitalTwin/MACP.svg?style=social&label=Star&maxAge=2592000)
+25. `[ICRA'24]` Probabilistic 3D Multi-Object Cooperative Tracking for Autonomous Driving via Differentiable Multi-Sensor Kalman Filter [[PDF](https://arxiv.org/abs/2309.14655)] [[Code](https://github.com/eddyhkchiu/DMSTrack)] ![](https://img.shields.io/github/stars/eddyhkchiu/DMSTrack.svg?style=social&label=Star&maxAge=2592000)
+26. `[ICRA'24]` Robust Collaborative Perception without External Localization and Clock Devices [[PDF](https://arxiv.org/abs/2405.02965)] [[Code](https://github.com/MediaBrain-SJTU/FreeAlign)] ![](https://img.shields.io/github/stars/MediaBrain-SJTU/FreeAlign.svg?style=social&label=Star&maxAge=2592000)
+27. `[CVPR'23]` BEVHeight: A Robust Framework for Vision-Based Roadside 3D Object Detection [[PDF](https://arxiv.org/abs/2303.08498)] [[Code](https://github.com/ADLab-AutoDrive/BEVHeight)] ![](https://img.shields.io/github/stars/ADLab-AutoDrive/BEVHeight.svg?style=social&label=Star&maxAge=2592000)
+28. `[CVPR'23]` Collaboration Helps Camera Overtake LiDAR in 3D Detection [[PDF](https://arxiv.org/abs/2303.13560)] [[Code](https://github.com/MediaBrain-SJTU/CoCa3D)] ![](https://img.shields.io/github/stars/MediaBrain-SJTU/CoCa3D.svg?style=social&label=Star&maxAge=2592000)
+29. `[CVPR'23]` V2X-Seq: The Large-Scale Sequential Dataset for the Vehicle-Infrastructure Cooperative Perception and Forecasting [[PDF](https://arxiv.org/abs/2305.05938)] [[Code](https://github.com/AIR-THU/DAIR-V2X-Seq)] ![](https://img.shields.io/github/stars/AIR-THU/CoCa3D.svg?style=social&label=Star&maxAge=2592000)
+29. `[NeurIPS'23]` Robust Asynchronous Collaborative 3D Detection via Bird's Eye View Flow [[PDF](https://arxiv.org/pdf/2309.16940)] [[Code](https://github.com/MediaBrain-SJTU/CoBEVFlow)] ![](https://img.shields.io/github/stars/MediaBrain-SJTU/CoBEVFlow.svg?style=social&label=Star&maxAge=2592000)
+30. `[NeurIPS'23]` Flow-Based Feature Fusion for Vehicle-Infrastructure Cooperative 3D Object Detection [[PDF](https://arxiv.org/pdf/2311.01682)] [[Code](https://github.com/haibao-yu/FFNet-VIC3D)] ![](https://img.shields.io/github/stars/haibao-yu/FFNet-VIC3D.svg?style=social&label=Star&maxAge=2592000)
+31. `[NeurIPS'23]` How2comm: Communication-Efficient and Collaboration-Pragmatic Multi-Agent Perception [[PDF](https://dl.acm.org/doi/abs/10.5555/3666122.3667215)] [[Code](https://github.com/ydk122024/How2comm)] ![](https://img.shields.io/github/stars/ydk122024/How2comm.svg?style=social&label=Star&maxAge=2592000)
+32. `[ICCV'23]` CORE: Cooperative Reconstruction for Multi-Agent Perception [[PDF](https://arxiv.org/abs/2307.11514)] [[Code](https://github.com/zllxot/CORE)] ![](https://img.shields.io/github/stars/zllxot/CORE.svg?style=social&label=Star&maxAge=2592000)
+33. `[ICCV'23]` Among Us: Adversarially Robust Collaborative Perception by Consensus [[PDF](https://arxiv.org/abs/2303.09495)] [[Code](https://github.com/coperception/ROBOSAC)]
+34. `[ICCV'23]` Spatio-Temporal Domain Awareness for Multi-Agent Collaborative Perception [[PDF](https://arxiv.org/abs/2307.13929)] [[Code](https://github.com/starfdu1418/SCOPE)] ![](https://img.shields.io/github/stars/starfdu1418/SCOPE.svg?style=social&label=Star&maxAge=2592000)
+35. `[ICCV'23]` TransIFF: An Instance-Level Feature Fusion Framework for Vehicle-Infrastructure Cooperative 3D Detection with Transformers [[PDF](https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_TransIFF_An_Instance-Level_Feature_Fusion_Framework_for_Vehicle-Infrastructure_Cooperative_3D_ICCV_2023_paper.pdf)] 
+36. `[ICCV'23]` UMC: A Unified Bandwidth-Efficient and Multi-Resolution Based Collaborative Perception Framework [[PDF](https://arxiv.org/abs/2303.12400)] [[Code](https://github.com/ispc-lab/UMC)] ![](https://img.shields.io/github/stars/ispc-lab/UMC.svg?style=social&label=Star&maxAge=2592000)
+37. `[ICLR'23]` CO3: Cooperative Unsupervised 3D Representation Learning for Autonomous Driving [[PDF](https://arxiv.org/pdf/2206.04028)] [[Code](https://github.com/Runjian-Chen/CO3)] ![](https://img.shields.io/github/stars/Runjian-Chen/CO3.svg?style=social&label=Star&maxAge=2592000)
+38. `[CoRL'23]` BM2CP: Efficient Collaborative Perception with LiDAR-Camera Modalities [[PDF](https://arxiv.org/pdf/2310.14702)] [[Code](https://github.com/byzhaoAI/BM2CP)] ![](https://img.shields.io/github/stars/byzhaoAI/BM2CP.svg?style=social&label=Star&maxAge=2592000)
+39. `[ACMMM'23]` DUSA: Decoupled Unsupervised Sim2Real Adaptation for Vehicle-to-Everything Collaborative Perception [[PDF](https://arxiv.org/abs/2310.08117)] [[Code](https://github.com/refkxh/DUSA)] ![](https://img.shields.io/github/stars/refkxh/DUSA.svg?style=social&label=Star&maxAge=2592000)
+40. `[ACMMM'23]` FeaCo: Reaching Robust Feature-Level Consensus in Noisy Pose Conditions [[PDF](https://dl.acm.org/doi/abs/10.1145/3581783.3611880)] [[Code](https://github.com/jmgu0212/FeaCo)] ![](https://img.shields.io/github/stars/jmgu0212/FeaCo.svg?style=social&label=Star&maxAge=2592000)
+41. `[ACMMM'23]` What2comm: Towards Communication-Efficient Collaborative Perception via Feature Decoupling  [[PDF](https://dl.acm.org/doi/abs/10.1145/3581783.3611699)] [[Code](https://github.com/MediaBrain-SJTU/where2comm)] ![](https://img.shields.io/github/stars/MediaBrain-SJTU/where2comm.svg?style=social&label=Star&maxAge=2592000)
+42. `[WACV'23]` Adaptive Feature Fusion for Cooperative Perception Using LiDAR Point Clouds [[PDF](https://arxiv.org/abs/2208.00116)] [[Code](https://github.com/DonghaoQiao/Adaptive-Feature-Fusion-for-Cooperative-Perception)] ![](https://img.shields.io/github/stars/DonghaoQiao/Adaptive-Feature-Fusion-for-Cooperative-Perception.svg?style=social&label=Star&maxAge=2592000)
+43. `[ICRA'23]` Robust Collaborative 3D Object Detection in Presence of Pose Errors [[PDF](https://arxiv.org/abs/2211.07214)] [[Code](https://github.com/yifanlu0227/CoAlign)] ![](https://img.shields.io/github/stars/yifanlu0227/CoAlign.svg?style=social&label=Star&maxAge=2592000)
+44. `[ICRA'23]` Deep Masked Graph Matching for Correspondence Identification in Collaborative Perception [[PDF](https://arxiv.org/abs/2303.07555)] [[Code](https://github.com/gaopeng5/DMGM)] ![](https://img.shields.io/github/stars/gaopeng5/DMGM.svg?style=social&label=Star&maxAge=2592000)
+45. `[ICRA'23]` Uncertainty Quantification of Collaborative Detection for Self-Driving [[PDF](https://arxiv.org/abs/2209.08162)] [[Code](https://github.com/coperception/double-m-quantification)] ![](https://img.shields.io/github/stars/coperception/double-m-quantification.svg?style=social&label=Star&maxAge=2592000)
+46. `[ICRA'23]` Model-Agnostic Multi-Agent Perception Framework [[PDF](https://arxiv.org/abs/2203.13168)] [[Code](https://github.com/DerrickXuNu/model_anostic)] ![](https://img.shields.io/github/stars/coperception/double-m-quantification.svg?style=social&label=Star&maxAge=2592000)
+47. `[CVPR'22]` COOPERNAUT: End-to-End Driving with Cooperative Perception for Networked Vehicles [[PDF](https://arxiv.org/abs/2205.02222)] [[Code](https://github.com/UT-Austin-RPL/Coopernaut)] ![](https://img.shields.io/github/stars/UT-Austin-RPL/Coopernaut.svg?style=social&label=Star&maxAge=2592000)
+48. `[CVPR'22]` Learning from All Vehicles [[PDF](https://arxiv.org/abs/2203.11934)] [[Code](https://github.com/dotchen/LAV)] ![](https://img.shields.io/github/stars/dotchen/LAV.svg?style=social&label=Star&maxAge=2592000)
+49. `[ECCV'22]` Latency-Aware Collaborative Perception [[PDF](https://arxiv.org/abs/2207.08560)] [[Code](https://github.com/MediaBrain-SJTU/SyncNet)] ![](https://img.shields.io/github/stars/MediaBrain-SJTU/SyncNet.svg?style=social&label=Star&maxAge=2592000)
+50. `[ECCV'22]` V2X-ViT: Vehicle-to-Everything Cooperative Perception with Vision Transformer [[PDF](https://arxiv.org/abs/2203.10638)] [[Code](https://github.com/DerrickXuNu/v2x-vit)] ![](https://img.shields.io/github/stars/DerrickXuNu/v2x-vit.svg?style=social&label=Star&maxAge=2592000)
+51. `[CoRL'22]` Multi-Robot Scene Completion: Towards Task-Agnostic Collaborative Perception [[PDF](https://proceedings.mlr.press/v205/li23e/li23e.pdf)] [[Code](https://github.com/coperception/star)] ![](https://img.shields.io/github/stars/coperception/star.svg?style=social&label=Star&maxAge=2592000)
+52. `[ACMMM'22]` Complementarity-Enhanced and Redundancy-Minimized Collaboration Network for Multi-agent Perception [[PDF](https://dl.acm.org/doi/abs/10.1145/3503161.3548197)]
+53. `[ICRA'22]` Multi-Robot Collaborative Perception with Graph Neural Networks [[PDF](https://arxiv.org/abs/2201.01760)]
+
+
 
 
 ### Decision-Making
+1. `[arXiv]` A Vehicle-Infrastructure Multi-layer Cooperative Decision-making Framework [[PDF](https://arxiv.org/pdf/2503.16552)]
+2. `[IoTML]` Research on Autonomous Driving Decision-making Strategies based Deep Reinforcement Learning [[PDF](https://dl.acm.org/doi/pdf/10.1145/3697467.3697643)]
+3. `[ICDE'24]` Parameterized Decision-making with Multi-modality Perception for Autonomous Driving [[PDF](https://arxiv.org/pdf/2312.11935)]
+4. `[ISSN'22]` Reinforcement Learning-Based Autonomous Driving at Intersections in CARLA Simulator [[PDF](https://www.mdpi.com/1424-8220/22/21/8373)]
+5. `[ITSC'23]` Curriculum Proximal Policy Optimization with Stage-Decaying Clipping for Self-Driving at Unsignalized Intersections [[PDF](https://arxiv.org/pdf/2308.16445)]
+6. `[IV'23]` Hybrid Decision Making for Autonomous Driving in Complex Urban Scenarios [[PDF](https://ieeexplore-ieee-org.sheffield.idm.oclc.org/stamp/stamp.jsp?tp=&arnumber=10186666)]
+7. `[TIV'23]` Robust Lane Change Decision Making for Autonomous Vehicles: An Observation Adversarial Reinforcement Learning Approach [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9750867)]
+8. `[TITS'23]` Robust Decision Making for Autonomous Vehicles at Highway On-Ramps: A Constrained Adversarial Reinforcement Learning Approach [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9994638)]
+9. `[TVT'23]` Exploiting Multi-Modal Fusion for Urban Autonomous Driving Using Latent Deep Reinforcement Learning [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9934803)]
+10. `[arXiv]`  Bringing Diversity to Autonomous Vehicles: An Interpretable Multi-vehicle Decision-making and Planning Framework [[PDF](https://arxiv.org/pdf/2302.06803)]
+11. `[TIV'23]`  A Multi-Vehicle Game-Theoretic Framework for Decision Making and Planning of Autonomous Vehicles in Mixed Traffic [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10268996)]
+12. `[Autonomous Intelligent Systems'22]`  Multi-agent Reinforcement Learning for Cooperative Lane Changing of Connected and Autonomous Vehicles in Mixed Traffic [[PDF](https://link.springer.com/article/10.1007/s43684-022-00023-5)]
+13. `[arXiv]` Research on Autonomous Driving Decision-making Strategies based Deep Reinforcement Learning [[PDF](https://arxiv.org/pdf/2408.03084)]
+14. `[ICDE'24]`  Parameterized Decision-Making with Multi-Modality Perception for Autonomous Driving [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10597785)]
+15. `[TVT'23]`  Towards Robust Decision-Making for Autonomous Driving on Highway [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10107652)][[Code](https://github.com/Kayne0401/Robust-Decision-Making-Framework)]
+16. `[TVT'22]`  Highway Decision-Making and Motion Planning for Autonomous Driving via Soft Actor-Critic [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9718218)]
+17. `[TITS'22]` PNNUAD: Perception Neural Networks Uncertainty Aware Decision-Making for Autonomous Vehicle [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9858685)]
+18. `[IEEE Transactions on Transportation Electrification'23]` Interaction-Aware Decision-Making for Autonomous Vehicles [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10029923)]
+19. `[ICRA'23]` Failure Detection for Motion Prediction of Autonomous Driving: An Uncertainty Perspective [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10160596)]
+20. `[ECCV'24]` MAPPO-PIS: A Multi-Agent Proximal Policy Optimization Method with Prior Intent Sharing for CAVs' Cooperative Decision-Making [[PDF]](https://arxiv.org/abs/2408.06656) [[Code]](https://github.com/CCCC1dhcgd/A-MAPPO-PIS)
+21. `[TITS'24]` Cooperative decision-making for cavs at unsignalized intersections: A marl approach with attention and hierarchical game priors [[PDF]](https://ieeexplore.ieee.org/abstract/document/10774177/)
+22. `[RAL'24]` Language-driven policy distillation for cooperative driving in multi-agent reinforcement learning [[PDF]](https://ieeexplore.ieee.org/document/10924758)
+23. `[TITS'23]` Deep Multi-agent Reinforcement Learning for Highway On-Ramp Merging in Mixed Traffic [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10159552)[[Code]](https://github.com/DongChen06/MARL_CAVs)
+24. `[CoRL'22]` Socially-Attentive Policy Optimization in Multi-Agent Self-Driving System [[PDF]](https://proceedings.mlr.press/v205/dai23a/dai23a.pdf)
+25. `[TITS'22]` Social Coordination and Altruism in Autonomous Driving [[PDF]](https://ieeexplore.ieee.org/document/9905741)
+26. `[arXiv'23]` Spatial-Temporal-Aware Safe Multi-Agent Reinforcement Learning of Connected Autonomous Vehicles in Challenging Scenarios [[PDF]](https://arxiv.org/pdf/2210.02300)
+27. `[TITS'24]` A Multi-Agent Reinforcement Learning Approach for Safe and Efficient Behavior Planning of Connected Autonomous Vehicles [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10367764)
+28. `[IROS'21]` Cooperative Autonomous Vehicles that Sympathize with Human Drivers [[PDF]](https://dl.acm.org/doi/10.1109/IROS51168.2021.9636151) [[Code]](https://github.com/BehradToghi/SymCoDrive_IROS2021)
+29. `[TITS'22]` Multi-Agent DRL-Based Lane Change With Right-of-Way Collaboration Awareness [[PDF]](https://ieeexplore.ieee.org/document/9932003)
+30. `[arXiv'23]` Multi-Agent Reinforcement Learning Guided by Signal Temporal Logic Specifications [[PDF]](https://arxiv.org/pdf/2306.06808)
+31. `[CoRL'20]` SMARTS: Scalable Multi-Agent Reinforcement Learning Training School for Autonomous Driving [[PDF]](https://proceedings.mlr.press/v155/zhou21a/zhou21a.pdf)[[Code]](https://github.com/huawei-noah/SMARTS)
+32. `[TITS'23]` Coordinating CAV Swarms at Intersections With a Deep Learning Model [[PDF]](https://ieeexplore.ieee.org/document/10078727)
+33. `[arXiv'22]` Graph Reinforcement Learning Application to Co-operative Decision-Making in Mixed Autonomy Traffic: Framework, Survey, and Challenges [[PDF]](https://arxiv.org/pdf/2211.03005) [[Code]](https://github.com/Jacklinkk/Graph_CAVs)
+34. `[TVT'24]` Towards Interactive and Learnable Cooperative Driving Automation: a Large Language Model-Driven Decision-Making Framework [[PDF]](https://ieeexplore.ieee.org/abstract/document/10933798)[[Code]](https://github.com/FanGShiYuu/CoDrivingLLM)
+35. `[arXiv'24]` CoMAL: Collaborative Multi-Agent Large Language Models for Mixed-Autonomy Traffic [[PDF]](https://arxiv.org/pdf/2410.14368)[[Code]](https://github.com/Hyan-Yao/CoMAL)
+36. `[arXiv'24]` AGENTSCODRIVER: Large Language Model Empowered Collaborative Driving with Lifelong Learning [[PDF]](https://arxiv.org/pdf/2404.06345)
+37. `[arXiv'24]` AgentsCoMerge: Large Language Model Empowered Collaborative Decision Making for Ramp Merging [[PDF]](https://arxiv.org/pdf/2408.03624)
+38. `[TIV'24]` KoMA: Knowledge-driven Multi-agent Framework for Autonomous Driving with Large Language Models [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10745878) [[Code]](https://github.com/jkmhhh/KoMA_Code)
+39. `[World Electric Vehicle Journal'24]` A Review of Decision-Making and Planning for Autonomous Vehicles in Intersection Environments [[PDF](https://www.mdpi.com/2032-6653/15/3/99)]
+40. `[TVT'24]` Decision-Making for Autonomous Vehicles in Random Task Scenarios at Unsignalized Intersection Using Deep Reinforcement Learning [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10417752)]
+41. `[DDCLS'24]` A Brief Survey of Deep Reinforcement Learning for Intersection Navigation of Autonomous Vehicles [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10606719)]
+42. `[Autonomous Intelligent Systems'22]` Multi-agent reinforcement learning for autonomous vehicles: a survey [[PDF](https://link.springer.com/article/10.1007/s43684-022-00045-z)]
+43. `[National Conference on Sensors'23]` A Comprehensive Survey on Multi-Agent Reinforcement Learning for Connected and Automated Vehicles [[PDF](https://www.mdpi.com/1424-8220/23/10/4710)]
+
 
 ### Planning
+1. `[TPAMI'24]` MTR++: Multi-Agent Motion Prediction with Symmetric Scene Modeling and Guided Intention Querying  [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10398503)]
+2.  `[NeurIPS'22]` Motion Transformer with Global Intention Localization and Local Movement Refinement  [[PDF](https://proceedings.neurips.cc/paper_files/paper/2022/file/2ab47c960bfee4f86dfc362f26ad066a-Paper-Conference.pdf)]  [[Code](https://github.com/sshaoshuai/MTR)]
+3.  `[ICCV'23]` BiFF: Bi-level Future Fusion with Polyline-based Coordinate for Interactive Trajectory Prediction [[PDF](https://proceedings.neurips.cc/paper_files/paper/2022/file/2ab47c960bfee4f86dfc362f26ad066a-Paper-Conference.pdf)]
+4.  `[AAAI'24]` EDA: Evolving and Distinct Anchors for Multimodal Motion Prediction [[PDF](https://arxiv.org/pdf/2312.09501)] [[Code](https://github.com/Longzhong-Lin/EDA)]
+5.  `[CVPR'22]` HiVT: Hierarchical Vector Transformer for Multi-Agent Motion Prediction [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9878832)][[Code](https://github.com/ZikangZhou/HiVT)]
+6.  `[CVPR'23]` ProphNet: Efficient Agent-Centric Motion Forecasting with Anchor-Informed Proposals [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10204544)]
+7.  `[ICRA'23]` Wayformer: Motion Forecasting via Simple & Efficient Attention Networks [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10160609)]
+8.  `[TPAMI'22]` HDGT: Heterogeneous Driving Graph Transformer for Multi-Agent Trajectory Prediction via Scene Encoding [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10192373)]
+9.  `[ICRA'22]` MultiPath++: Efficient Information Fusion and Trajectory Aggregation for Behavior Prediction [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9812107)]
+10.  `[arXiv]` THOMAS: TRAJECTORY HEATMAP OUTPUT WITH LEARNED MULTI-AGENT SAMPLING [[PDF](https://arxiv.org/pdf/2110.06607)]
+11.  `[IEEE Robotics and Automation Letters'23]` MacFormer: Map-Agent Coupled Transformer for Real-Time and Robust Trajectory Prediction [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10238733)]
+12.  `[ICCV'23]` Forecast-MAE: Self-supervised Pre-training for Motion Forecasting with Masked Autoencoders [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10377996)]
+13.  `[ICRA'23]` GoRela: Go Relative for Viewpoint-Invariant Motion Forecasting [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10160984)]
+14.  `[arXiv]` Real-Time Motion Prediction via Heterogeneous Polyline Transformer with Relative Pose Encoding [[PDF]([https://arxiv.org/pdf/2110.06607](https://arxiv.org/pdf/2310.12970))][[Code](https://github.com/zhejz/HPTR)]
+15.  `[CVPR'23]` FJMP: Factorized Joint Multi-Agent Motion Prediction over Learned Directed Acyclic Interaction Graphs [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10204178)][[Code](https://rluke22.github.io/FJMP/)]
+16.  `[ICRA'23]` GANet: Goal Area Network for Motion Forecasting [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10160468)][[Code](https://github.com/kingwmk/GANet)]
+17.  `[ICRA'22]` GOHOME: Graph-Oriented Heatmap Output for future Motion Estimation [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9812253)]
+18.  `[ICCV'21]` DenseTNT: End-to-end Trajectory Prediction from Dense Goal Sets [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9710037)]
+19.  `[TITS'23]` Decentralized iLQR for Cooperative Trajectory Planning of Connected Autonomous Vehicles via Dual Consensus ADMM [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10171831)]
+20.  `[arXiv]` Improved Consensus ADMM for Cooperative Motion Planning of Large-Scale Connected Autonomous Vehicles with Limited Communication [[PDF](https://arxiv.org/pdf/2401.09032)][[Code](https://henryhcliu.github.io/icadmm_cmp_carla/)]
+21.  `[arXiv]` CoDriveVLM: VLM-Enhanced Urban Cooperative Dispatching and Motion Planning for Future Autonomous Mobility on Demand Systems [[PDF](https://arxiv.org/pdf/2501.06132)][[Code](https://github.com/henryhcliu/CoDriveVLM)]
+22. `[ICRA'24]` Parallel Optimization with Hard Safety Constraints for Cooperative Planning of Connected Autonomous Vehicles [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10611158)]
+23. `[RAL'24]` SIMPL: A Simple and Efficient Multi-Agent Motion Prediction Baseline for Autonomous Driving [[PDF]](https://ieeexplore.ieee.org/abstract/document/10449378)
+24. `[TIV'23]` Fault-tolerant cooperative driving at signal-free intersections [[PDF]](https://ieeexplore.ieee.org/document/9735412)
+25. `[TIV'23]` OpenCDA-ROS: Enabling Seamless Integration of Simulation and Real-World Cooperative Driving Automation [[PDF]](https://ieeexplore.ieee.org/document/10192346)
+26. `[TIV'23]` Optimal Trajectory Planning for Connected and Automated Vehicles in Lane-Free Traffic With Vehicle Nudging [[PDF]](https://ieeexplore.ieee.org/document/10032638)
+27. `[TITS'22]` Cooperative Formation of Autonomous Vehicles in Mixed Traffic Flow: Beyond Platooning [[PDF]](https://ieeexplore.ieee.org/document/9709187)
+28. `[TIV'23]` Multi-Vehicle Conflict Management With Status and Intent Sharing Under Time Delays [[PDF]](https://ieeexplore.ieee.org/document/9998111)
+29. `[ITSC'21]` OpenCDA: An Open Cooperative Driving Automation Framework Integrated with Co-Simulation [[PDF]](https://ieeexplore.ieee.org/abstract/document/9564825) [[Code]](https://github.com/ucla-mobility/OpenCDA)
+30. `[TVT'22]` Multi-Lane Unsignalized Intersection Cooperation With Flexible Lane Direction Based on Multi-Vehicle Formation Control [[PDF]](https://ieeexplore.ieee.org/document/9740423)
+31. `[TIV'23]` Optimizing Vehicle Re-Ordering Events in Coordinated Autonomous Intersection Crossings Under CAVs' Location Uncertainty [[PDF]](https://ieeexplore.ieee.org/document/9976239)
+32. `[TIV'23]` Optimizing Vehicle Re-Ordering Events in Coordinated Autonomous Intersection Crossings Under CAVs' Location Uncertainty [[PDF]](https://ieeexplore.ieee.org/document/9735412)
+33. `[CoRL'23]` iPLAN: Intent-Aware Planning in Heterogeneous Traffic via Distributed Multi-Agent Reinforcement Learning[[PDF]](https://openreview.net/pdf?id=EvuAJ0wD98)[[Code]](https://github.com/wuxiyang1996/iPLAN)
+34. `[RAL'24]` CMP: Cooperative Motion Prediction With Multi-Agent Communication [[PDF]](https://ieeexplore.ieee.org/abstract/document/10908648)
+35. `[CVPR'23]` MotionDiffuser: Controllable Multi-Agent Motion Prediction Using Diffusion [[PDF]](https://openaccess.thecvf.com/content/CVPR2023/papers/Jiang_MotionDiffuser_Controllable_Multi-Agent_Motion_Prediction_Using_Diffusion_CVPR_2023_paper.pdf)
+36. `[NeurIPS'24]` SMART: Scalable Multi-agent Real-time Motion Generation via Next-token Prediction [[PDF]](https://proceedings.neurips.cc/paper_files/paper/2024/file/cef5c8dec67597b854f0162ad76d92d2-Paper-Conference.pdf) [[Code]](https://github.com/rainmaker22/SMART)
+37. `[IEEE Internet of Things Journal'24]` Coordination for Connected and Autonomous Vehicles at Unsignalized Intersections: An Iterative Learning-Based Collision-Free Motion Planning Method [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10224258)]
 
+   
 ### Communication
+1. `[CVPR'24]` Communication-Efficient Collaborative Perception via Information Filling with Codebook [[PDF](https://openaccess.thecvf.com/content/CVPR2024/papers/Hu_Communication-Efficient_Collaborative_Perception_via_Information_Filling_with_Codebook_CVPR_2024_paper.pdf)] [[Code](https://github.com/PhyllisH/CodeFilling)] ![](https://img.shields.io/github/stars/PhyllisH/CodeFilling.svg?style=social&label=Star&maxAge=2592000)
+2. `[CVPR'24]` ERMVP: Communication-Efficient and Collaboration-Robust Multi-Vehicle Perception in Challenging Environments [[PDF](https://openaccess.thecvf.com/content/CVPR2024/html/Zhang_ERMVP_Communication-Efficient_and_Collaboration-Robust_Multi-Vehicle_Perception_in_Challenging_Environments_CVPR_2024_paper.html)] [[Code](https://github.com/Terry9a/ERMVP)] ![](https://img.shields.io/github/stars/Terry9a/ERMVP.svg?style=social&label=Star&maxAge=2592000)
+3. `[CVPR'24]` Multi-Agent Collaborative Perception via Motion-Aware Robust Communication Network [[PDF](https://openaccess.thecvf.com/content/CVPR2024/html/Hong_Multi-agent_Collaborative_Perception_via_Motion-aware_Robust_Communication_Network_CVPR_2024_paper.html)] [[Code](https://github.com/IndigoChildren/collaborative-perception-MRCNet)] ![](https://img.shields.io/github/stars/IndigoChildren/collaborative-perception-MRCNet.svg?style=social&label=Star&maxAge=2592000)
+4. `[ICRA'23]` Communication-Critical Planning via Multi-Agent Trajectory Exchange [[PDF](https://arxiv.org/abs/2303.06080)]
+5. `[ICRA'23]` We Need to Talk: Identifying and Overcoming Communication-Critical Scenarios for Self-Driving [[PDF](https://arxiv.org/abs/2305.04352)] 
+6. `[IJCAI'22]` Robust Collaborative Perception against Communication Interruption [[PDF](https://learn-to-race.org/workshop-ai4ad-ijcai2022/papers.html)] 
+
 
 ### End-to-End
-1. `[NeurIPS'21]` Learning to Simulate Self-Driven Particles System with Coordinated Policy Optimization [[paper](https://arxiv.org/pdf/2110.13827)] [[code](https://github.com/decisionforce/CoPO.git)] [[Webpage](https://decisionforce.github.io/CoPO/)]
-2. `[AAAI'22]` CADRE: A Cascade Deep Reinforcement Learning Framework for Vision-Based Autonomous Urban Driving [[paper](https://arxiv.org/abs/2202.08557)] [[code](https://github.com/BIT-MCS/Cadre.git)] ![](https://img.shields.io/github/stars/BIT-MCS/Cadre.svg?style=social&label=Star&maxAge=2592000)
-3. `[CVPR'22]` COOPERNAUT: End-to-End Driving with Cooperative Perception for Networked Vehicles [[paper](https://arxiv.org/abs/2205.02222)] [[code](https://github.com/UT-Austin-RPL/Coopernaut.git)] ![](https://img.shields.io/github/stars/UT-Austin-RPL/Coopernaut.svg?style=social&label=Star&maxAge=2592000)
-4. `[TIV'23]` End-to-end Autonomous Driving with Semantic Depth Cloud Mapping and Multi-agent [[paper](https://doi.org/10.1109/TIV.2022.3185303)] [[code](https://github.com/oskarnatan/end-to-end-driving)]
-5. `[IV'24]` ICOP: Image-based Cooperative Perception for End-to-End Autonomous Driving [[paper](https://ieeexplore.ieee.org/abstract/document/10588825)]
-6. `[arXiv]` End-to-End Autonomous Driving through V2X Cooperation [[paper](https://arxiv.org/abs/2404.00717)] [[code](https://github.com/AIR-THU/UniV2X)] ![](https://img.shields.io/github/stars/AIR-THU/UniV2X.svg?style=social&label=Star&maxAge=2592000)
-7. `[arXiv]` Towards Collaborative Autonomous Driving: Simulation Platform and End-to-End System [[paper](https://arxiv.org/abs/2404.09496)] [[code](https://github.com/CollaborativePerception/V2Xverse)] ![](https://img.shields.io/github/stars/CollaborativePerception/V2Xverse.svg?style=social&label=Star&maxAge=2592000)
-8. `[arXiv]` AgentsCoMerge: Large Language Model Empowered Collaborative Decision Making for Ramp Merging [[paper](https://arxiv.org/abs/2408.03624)]
-9. `[arXiv]` AgentsCoDriver: Large Language Model Empowered Collaborative Driving with Lifelong Learning [[paper](https://arxiv.org/abs/2404.06345)]
+1. `[AAAI'22]` CADRE: A Cascade Deep Reinforcement Learning Framework for Vision-Based Autonomous Urban Driving [[paper](https://arxiv.org/abs/2202.08557)] [[code](https://github.com/BIT-MCS/Cadre.git)] ![](https://img.shields.io/github/stars/BIT-MCS/Cadre.svg?style=social&label=Star&maxAge=2592000)
+2. `[CVPR'22]` COOPERNAUT: End-to-End Driving with Cooperative Perception for Networked Vehicles [[paper](https://arxiv.org/abs/2205.02222)] [[code](https://github.com/UT-Austin-RPL/Coopernaut.git)] ![](https://img.shields.io/github/stars/UT-Austin-RPL/Coopernaut.svg?style=social&label=Star&maxAge=2592000)
+3. `[TIV'23]` End-to-end Autonomous Driving with Semantic Depth Cloud Mapping and Multi-agent [[paper](https://doi.org/10.1109/TIV.2022.3185303)] [[code](https://github.com/oskarnatan/end-to-end-driving)]
+4. `[IV'24]` ICOP: Image-based Cooperative Perception for End-to-End Autonomous Driving [[paper](https://ieeexplore.ieee.org/abstract/document/10588825)]
+5. `[arXiv]` End-to-End Autonomous Driving through V2X Cooperation [[paper](https://arxiv.org/abs/2404.00717)] [[code](https://github.com/AIR-THU/UniV2X)] ![](https://img.shields.io/github/stars/AIR-THU/UniV2X.svg?style=social&label=Star&maxAge=2592000)
+6. `[arXiv]` Towards Collaborative Autonomous Driving: Simulation Platform and End-to-End System [[paper](https://arxiv.org/abs/2404.09496)] [[code](https://github.com/CollaborativePerception/V2Xverse)] ![](https://img.shields.io/github/stars/CollaborativePerception/V2Xverse.svg?style=social&label=Star&maxAge=2592000)
+
 ### Dataset and Simulator
 
 #### Dataset
@@ -93,7 +225,7 @@
 5. `[arXiv]` Towards Collaborative Autonomous Driving: Simulation Platform and End-to-End System [[PDF](https://arxiv.org/abs/2404.09496)] [[Code](https://github.com/CollaborativePerception/V2Xverse)] ![V2Xverse](https://img.shields.io/badge/-V2Xverse-blue)
 
 
-### Security
+### Security and Robustness
 1. `[ICCV'21]` Adversarial Attacks On Multi-Agent Communication [[PDF](https://ieeexplore.ieee.org/document/9711249/?arnumber=9711249)]
 2. `[ICCV'23]` Among Us: Adversarially Robust Collaborative Perception by Consensus [[PDF](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_Among_Us_Adversarially_Robust_Collaborative_Perception_by_Consensus_ICCV_2023_paper.pdf), [Code](https://github.com/coperception/ROBOSAC)] ![](https://img.shields.io/github/stars/coperception/ROBOSAC.svg?style=social&label=Star&maxAge=2592000)
 3. `[VehicleSec'23]` Cooperative Perception for Safe Control of Autonomous Vehicles under LiDAR Spoofing Attacks [[PDF](http://arxiv.org/abs/2302.07341)]
@@ -102,4 +234,12 @@
 6. `[AAAI'25]` CP-Guard: Malicious Agent Detection and Defense in Collaborative Bird's Eye View Perception [[PDF](https://arxiv.org/abs/2412.12000)]
 7. `[AAAI'24]` Robust Communicative Multi-Agent Reinforcement Learning with Active Defense [[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/29708)]
 8. `[arXiv]` GCP: Guarded Collaborative Perception with Spatial-Temporal Aware Malicious Agent Detection [[PDF](https://arxiv.org/abs/2501.02450)]
-9. `[arXiv]` CP-Guard+: A New Paradigm for Malicious Agent Detection and Defense in Collaborative Perception [[PDF](https://arxiv.org/abs/2502.07807v1)]
+9.  `[arXiv]` CP-Guard+: A New Paradigm for Malicious Agent Detection and Defense in Collaborative Perception [[PDF](https://arxiv.org/abs/2502.07807v1)]
+10. `[ICRA'24]` AdvGPS: Adversarial GPS for Multi-Agent Perception Attack [[PDF](https://ieeexplore.ieee.org/abstract/document/10610012)] [[Code](https://github.com/jinlong17/AdvGPS)] ![](https://img.shields.io/github/stars/jinlong17/AdvGPS.svg?style=social&label=Star&maxAge=2592000)
+11. `[arXiv]` A Multi-Agent Security Testbed for the Analysis of Attacks and Defenses in Collaborative Sensor Fusion [[PDF](https://arxiv.org/abs/2401.09387)]
+12. `[TDSC'23]` MARNet: Backdoor Attacks Against Cooperative Multi-Agent Reinforcement Learning [[PDF](https://ieeexplore.ieee.org/abstract/document/9894692)]
+13. `[JATS'24]` RAMPART: Reinforcing Autonomous Multi-Agent Protection through Adversarial Resistance in Transportation [[PDF](https://dl.acm.org/doi/full/10.1145/3643137)]
+14. `[ACM Computing Surveys]` Adversarial Machine Learning Attacks and Defences in Multi-Agent Reinforcement Learning [[PDF](https://dl.acm.org/doi/full/10.1145/3708320)]
+15. `[NeurIPS'23]` Efficient Adversarial Attacks on Online Multi-agent Reinforcement Learning [[PDF](https://proceedings.neurips.cc/paper_files/paper/2023/hash/4cddc8fc57039f8fe44e23aba1e4df40-Abstract-Conference.html)]
+16. `[TITS'24]` A Survey of Multi-Vehicle Consensus in Uncertain Networks for Autonomous Driving [[PDF](https://ieeexplore.ieee.org/abstract/document/10704959)]
+17. `[TITS'22]` A Survey on Cyber-Security of Connected and Autonomous Vehicles (CAVs) [[PDF](https://ieeexplore.ieee.org/abstract/document/9447840)]
