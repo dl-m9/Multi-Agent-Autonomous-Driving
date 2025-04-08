@@ -127,7 +127,7 @@
 11.  `[IEEE Robotics and Automation Letters'23]` MacFormer: Map-Agent Coupled Transformer for Real-Time and Robust Trajectory Prediction [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10238733)]
 12.  `[ICCV'23]` Forecast-MAE: Self-supervised Pre-training for Motion Forecasting with Masked Autoencoders [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10377996)]
 13.  `[ICRA'23]` GoRela: Go Relative for Viewpoint-Invariant Motion Forecasting [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10160984)]
-14.  `[arXiv]` Real-Time Motion Prediction via Heterogeneous Polyline Transformer with Relative Pose Encoding [[PDF]([https://arxiv.org/pdf/2110.06607](https://arxiv.org/pdf/2310.12970))][[Code](https://github.com/zhejz/HPTR)]
+14.  `[arXiv]` Real-Time Motion Prediction via Heterogeneous Polyline Transformer with Relative Pose Encoding [[PDF]([https://arxiv.org/pdf/2310.12970))][[Code](https://github.com/zhejz/HPTR)]
 15.  `[CVPR'23]` FJMP: Factorized Joint Multi-Agent Motion Prediction over Learned Directed Acyclic Interaction Graphs [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10204178)][[Code](https://rluke22.github.io/FJMP/)]
 16.  `[ICRA'23]` GANet: Goal Area Network for Motion Forecasting [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10160468)][[Code](https://github.com/kingwmk/GANet)]
 17.  `[ICRA'22]` GOHOME: Graph-Oriented Heatmap Output for future Motion Estimation [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9812253)]
