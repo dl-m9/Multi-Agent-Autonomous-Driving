@@ -1,11 +1,11 @@
 # Awesome Multi-Agent Autonomous Driving 🚗 🚙 🚓 🚕 🏎️
 
 ![MAAD](./src/maad.png)
-<div align="center">
+<!-- <div align="center">
   <a href="./src/wechat.jpg">
     <img src="https://img.shields.io/badge/WeChat-MAADResearch-brightgreen?logo=wechat&logoColor=white" alt="WeChat">
   </a>
-</div>
+</div> -->
 
 This is a repository for collecting resources about **Multi-Agent Autonomous Driving (MAAD)**. Different from single-agent autonomous driving which mainly focus on enhancing the driving capabilities of a single vehicle, MAAD focuses on the collaboration and interaction between multiple agents including vehicles and infrastructure.
 
@@ -25,9 +25,9 @@ The process to submit a pull request is as follows:
 3. Submit the pull request to this branch.
 
 
-### Join Our Community
+<!-- ### Join Our Community
 
-In addition, if you want to **join our community** for discussion, sharing, connections, and potential collaborations, please scan the [WeChat QR code](./src/wechat.jpg). [<img src="https://img.shields.io/badge/WeChat-MAADResearch-brightgreen?logo=wechat&logoColor=white" alt="WeChat">](./src/wechat.jpg)
+In addition, if you want to **join our community** for discussion, sharing, connections, and potential collaborations, please scan the [WeChat QR code](./src/wechat.jpg). [<img src="https://img.shields.io/badge/WeChat-MAADResearch-brightgreen?logo=wechat&logoColor=white" alt="WeChat">](./src/wechat.jpg) -->
 
 ## Table of Contents
 
