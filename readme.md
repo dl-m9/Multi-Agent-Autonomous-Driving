@@ -149,10 +149,10 @@ In addition, if you want to **join our community** for discussion, sharing, conn
 
 
 ### Decision-Making
-1. `[arXiv]` A Vehicle-Infrastructure Multi-layer Cooperative Decision-making Framework [[PDF](https://arxiv.org/pdf/2503.16552)]
-2. `[arXiv'24]` CoMAL: Collaborative Multi-Agent Large Language Models for Mixed-Autonomy Traffic [[PDF](https://arxiv.org/pdf/2410.14368)][[Code]](https://github.com/Hyan-Yao/CoMAL)
-3. `[arXiv'24]` AGENTSCODRIVER: Large Language Model Empowered Collaborative Driving with Lifelong Learning [[PDF](https://arxiv.org/pdf/2404.06345)]
-4. `[arXiv'24]` AgentsCoMerge: Large Language Model Empowered Collaborative Decision Making for Ramp Merging [[PDF](https://arxiv.org/pdf/2408.03624)]
+1. `[TMC'25]` AgentsCoMerge: Large Language Model Empowered Collaborative Decision Making for Ramp Merging [[PDF](https://arxiv.org/pdf/2408.03624)]
+2. `[arXiv]` A Vehicle-Infrastructure Multi-layer Cooperative Decision-making Framework [[PDF](https://arxiv.org/pdf/2503.16552)]
+3. `[arXiv'24]` CoMAL: Collaborative Multi-Agent Large Language Models for Mixed-Autonomy Traffic [[PDF](https://arxiv.org/pdf/2410.14368)][[Code]](https://github.com/Hyan-Yao/CoMAL)
+4. `[arXiv'24]` AGENTSCODRIVER: Large Language Model Empowered Collaborative Driving with Lifelong Learning [[PDF](https://arxiv.org/pdf/2404.06345)]
 5. `[arXiv]` Research on Autonomous Driving Decision-making Strategies based Deep Reinforcement Learning [[PDF](https://arxiv.org/pdf/2408.03084)]
 6. `[ECCV'24]` MAPPO-PIS: A Multi-Agent Proximal Policy Optimization Method with Prior Intent Sharing for CAVs' Cooperative Decision-Making [[PDF]](https://arxiv.org/abs/2408.06656) [[Code]](https://github.com/CCCC1dhcgd/A-MAPPO-PIS)
 7. `[TITS'24]` Cooperative decision-making for cavs at unsignalized intersections: A marl approach with attention and hierarchical game priors [[PDF]](https://ieeexplore.ieee.org/abstract/document/10774177/)
@@ -315,7 +315,7 @@ In addition, if you want to **join our community** for discussion, sharing, conn
 
 ### Security and Robustness
 1. `[TMC'25]` Collaborative Perception Against Data Fabrication Attacks in Vehicular Networks [[PDF](https://ieeexplore.ieee.org/abstract/document/11006384)]
-2. `[AAAI'25]` CP-Guard: Malicious Agent Detection and Defense in Collaborative Bird's Eye View Perception [[PDF](https://arxiv.org/abs/2412.12000)]
+2. `[AAAI'25 Oral]` CP-Guard: Malicious Agent Detection and Defense in Collaborative Bird's Eye View Perception [[PDF](https://arxiv.org/abs/2412.12000), [Code](https://github.com/CP-Security/CP-Guard)]
 3. `[IROS'24]` Malicious Agent Detection for Robust Multi-Agent Collaborative Perception [[PDF](http://arxiv.org/abs/2310.11901), [Code](https://github.com/shengyin1224/MADE)] ![](https://img.shields.io/github/stars/shengyin1224/MADE.svg?style=social&label=Star&maxAge=2592000)
 4. `[ICRA'24]` AdvGPS: Adversarial GPS for Multi-Agent Perception Attack [[PDF](https://ieeexplore.ieee.org/abstract/document/10610012)] [[Code](https://github.com/jinlong17/AdvGPS)] ![](https://img.shields.io/github/stars/jinlong17/AdvGPS.svg?style=social&label=Star&maxAge=2592000)
 5. `[JATS'24]` RAMPART: Reinforcing Autonomous Multi-Agent Protection through Adversarial Resistance in Transportation [[PDF](https://dl.acm.org/doi/full/10.1145/3643137)]
